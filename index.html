@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Quiz Concorso RIPAM 2026</title>
+    <title>Simulatore RIPAM 2026</title>
     <style>
         :root { --primary: #0056b3; --success: #28a745; --error: #dc3545; --bg: #f4f6f9; }
+        
+        /* CORREZIONE FONDAMENTALE: box-sizing */
+        * { box-sizing: border-box; }
+
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); margin: 0; padding: 20px; color: #333; }
         .container { max-width: 600px; margin: 0 auto; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
         h1 { font-size: 1.2rem; text-align: center; color: var(--primary); margin-bottom: 20px; }
@@ -13,21 +17,50 @@
         /* Filtri */
         #setup-screen { display: block; }
         #quiz-screen, #result-screen { display: none; }
-        .category-btn { display: block; width: 100%; padding: 15px; margin-bottom: 10px; border: 1px solid #ddd; background: white; border-radius: 8px; font-size: 1rem; text-align: left; cursor: pointer; }
+        
+        .category-btn { 
+            display: block; 
+            width: 100%; 
+            padding: 15px; 
+            margin-bottom: 10px; 
+            border: 1px solid #ddd; 
+            background: white; 
+            border-radius: 8px; 
+            font-size: 1rem; 
+            text-align: left; 
+            cursor: pointer; 
+            transition: all 0.2s;
+        }
+        .category-btn:hover { background-color: #f8f9fa; }
         .category-btn.selected { background: var(--primary); color: white; border-color: var(--primary); }
         
         /* Quiz UI */
         .progress { height: 6px; background: #e9ecef; border-radius: 3px; margin-bottom: 20px; overflow: hidden; }
         .progress-bar { height: 100%; background: var(--primary); width: 0%; transition: width 0.3s; }
         .question-text { font-size: 1.1rem; font-weight: 600; margin-bottom: 20px; line-height: 1.4; }
-        .option-btn { width: 100%; padding: 15px; margin-bottom: 10px; border: 2px solid #e9ecef; background: white; border-radius: 10px; font-size: 1rem; text-align: left; cursor: pointer; transition: all 0.2s; -webkit-tap-highlight-color: transparent; }
+        
+        /* Stile Bottoni Risposta Corretto */
+        .option-btn { 
+            width: 100%; 
+            padding: 15px; 
+            margin-bottom: 10px; 
+            border: 2px solid #e9ecef; 
+            background: white; 
+            border-radius: 10px; 
+            font-size: 1rem; 
+            text-align: left; 
+            cursor: pointer; 
+            transition: all 0.2s; 
+            -webkit-tap-highlight-color: transparent;
+            word-wrap: break-word; /* Gestisce testi lunghi */
+        }
         
         /* Stati Risposta */
         .correct { background-color: #d4edda; border-color: var(--success); color: #155724; }
         .wrong { background-color: #f8d7da; border-color: var(--error); color: #721c24; }
         .disabled { pointer-events: none; opacity: 0.7; }
         
-        .explanation { background: #e2e6ea; padding: 10px; border-radius: 8px; margin-top: 10px; font-size: 0.9rem; display: none; }
+        .explanation { background: #e2e6ea; padding: 15px; border-radius: 8px; margin-top: 15px; font-size: 0.95rem; line-height: 1.5; display: none; }
         
         .btn-action { width: 100%; padding: 15px; background: var(--primary); color: white; border: none; border-radius: 10px; font-size: 1.1rem; font-weight: bold; cursor: pointer; margin-top: 20px; }
         .stat-box { text-align: center; padding: 20px; font-size: 1.2rem; }
@@ -68,26 +101,32 @@
     let score = 0;
     let selectedCategories = [];
 
-    // 1. Caricamento Dati
+    // Caricamento Dati
     fetch('questions.json')
         .then(response => response.json())
         .then(data => {
             allQuestions = data;
             initCategories();
         })
-        .catch(err => console.error("Errore caricamento JSON:", err));
+        .catch(err => {
+            console.error("Errore caricamento JSON:", err);
+            document.getElementById('question-text').innerText = "Errore caricamento file questions.json. Controlla la console.";
+        });
 
     function initCategories() {
+        // Estrai categorie uniche
         const categories = [...new Set(allQuestions.map(q => q.category))];
         const container = document.getElementById('category-list');
-        
-        // Aggiungi opzione "Tutte"
+        container.innerHTML = ''; // Pulisce in caso di reload
+
+        // Opzione "Tutte"
         const allBtn = document.createElement('button');
         allBtn.className = 'category-btn selected';
         allBtn.innerText = 'Tutte le materie';
         allBtn.onclick = () => toggleCategory('Tutte', allBtn);
         container.appendChild(allBtn);
 
+        // Altre categorie
         categories.forEach(cat => {
             const btn = document.createElement('button');
             btn.className = 'category-btn';
@@ -98,24 +137,27 @@
     }
 
     function toggleCategory(cat, btn) {
-        // Logica semplificata: se clicchi una categoria, deseleziona "Tutte"
         document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('selected'));
         btn.classList.add('selected');
         selectedCategories = cat === 'Tutte' ? [] : [cat];
     }
 
-    // 2. Logica Quiz
     function startQuiz() {
         if (selectedCategories.length === 0) {
-            currentQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 20); // Max 20 domande random
+            // Se "Tutte" o nessuna selezione, prendi 20 a caso da tutto il pool
+            currentQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 20);
         } else {
+            // Filtra per categoria e prendi 20 a caso
             currentQuestions = allQuestions
                 .filter(q => selectedCategories.includes(q.category))
-                .sort(() => 0.5 - Math.random());
+                .sort(() => 0.5 - Math.random())
+                .slice(0, 20); // Limite a 20 anche per categoria singola
         }
 
-        if(currentQuestions.length === 0) return alert("Nessuna domanda trovata!");
+        if(currentQuestions.length === 0) return alert("Nessuna domanda trovata per questa categoria!");
 
+        score = 0;
+        currentQuestionIndex = 0;
         document.getElementById('setup-screen').style.display = 'none';
         document.getElementById('quiz-screen').style.display = 'block';
         showQuestion();
@@ -127,7 +169,6 @@
         document.getElementById('explanation').style.display = 'none';
         document.getElementById('next-btn').style.display = 'none';
         
-        // Aggiorna progress bar
         const progress = ((currentQuestionIndex) / currentQuestions.length) * 100;
         document.getElementById('progress-bar').style.width = `${progress}%`;
 
@@ -145,17 +186,16 @@
 
     function checkAnswer(selectedIndex, correctIndex, btnElement) {
         const options = document.querySelectorAll('.option-btn');
-        options.forEach(opt => opt.classList.add('disabled')); // Blocca click multipli
+        options.forEach(opt => opt.classList.add('disabled'));
 
         if (selectedIndex === correctIndex) {
             btnElement.classList.add('correct');
             score++;
         } else {
             btnElement.classList.add('wrong');
-            options[correctIndex].classList.add('correct'); // Mostra quella giusta
+            options[correctIndex].classList.add('correct');
         }
 
-        // Mostra spiegazione se presente
         const explanation = document.getElementById('explanation');
         if(currentQuestions[currentQuestionIndex].explanation) {
             explanation.innerText = "💡 " + currentQuestions[currentQuestionIndex].explanation;
@@ -181,9 +221,9 @@
         
         const perc = (score / currentQuestions.length) * 100;
         const msg = document.getElementById('feedback-msg');
-        if(perc >= 70) msg.innerText = "Ottimo lavoro! Pronto per il concorso.";
-        else if(perc >= 50) msg.innerText = "Non male, ma ripassa ancora.";
-        else msg.innerText = "Devi studiare di più!";
+        if(perc >= 80) msg.innerText = "Eccellente! Sei pronta.";
+        else if(perc >= 60) msg.innerText = "Sei sulla buona strada, bene, ripassa gli errori.";
+        else msg.innerText = "Mai mollare, si continua a studiare, sono con te!";
     }
 </script>
 
