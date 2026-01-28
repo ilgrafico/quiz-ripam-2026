@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Secondo la Costituzione italiana (art. 97), quali sono i due principi fondamentali che qualificano l'azione amministrativa come servizio alla collettività?",
     "options": [
       "Legalità e Trasparenza",
@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa garantisce l'articolo 113 della Costituzione in relazione alla Pubblica Amministrazione?",
     "options": [
       "L'obbligo di motivazione degli atti",
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale importante novità ha introdotto la Legge n. 241/1990 citata nel testo?",
     "options": [
       "La privatizzazione del pubblico impiego",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "A quale provvedimento legislativo il testo associa la 'privatizzazione del pubblico impiego'?",
     "options": [
       "D.lgs. 50/2016",
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quali principi sono imposti dalla Corte di giustizia dell'UE condizionando il diritto amministrativo italiano?",
     "options": [
       "Solo il principio di legalità",
@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa si intende nel testo per 'amministrazione multilivello'?",
     "options": [
       "Un'amministrazione divisa solo tra Comuni e Regioni",
@@ -79,7 +79,7 @@
   },
   {
     "id": 7,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è una delle nuove sfide dell'amministrazione contemporanea citate nel testo?",
     "options": [
       "Il ritorno al protezionismo economico",
@@ -92,7 +92,7 @@
   },
   {
     "id": 8,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Il diritto amministrativo possiede un codice unitario simile al codice civile o penale?",
     "options": [
       "Sì, il Codice del Processo Amministrativo",
@@ -105,7 +105,7 @@
   },
   {
     "id": 9,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Secondo la definizione 'funzionale' (oggi la più accreditata), cosa disciplina il diritto amministrativo?",
     "options": [
       "Esclusivamente l'organizzazione interna degli uffici pubblici",
@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale delle seguenti è una caratteristica distintiva del diritto amministrativo citata nel testo?",
     "options": [
       "La parità assoluta tra P.A. e privati in ogni ambito",
@@ -131,7 +131,7 @@
   },
   {
     "id": 11,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la funzione fondamentale del diritto amministrativo secondo il testo?",
     "options": [
       "Garantire esclusivamente l'efficienza dello Stato",
@@ -144,7 +144,7 @@
   },
   {
     "id": 12,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Come è cambiato il rapporto tra diritto amministrativo e diritto privato?",
     "options": [
       "Si è assistito a una netta separazione e incomunicabilità tra i due",
@@ -157,7 +157,7 @@
   },
   {
     "id": 13,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Perché il diritto amministrativo è definito anche 'diritto giurisprudenziale'?",
     "options": [
       "Perché è creato esclusivamente dai giudici senza leggi scritte",
@@ -170,7 +170,7 @@
   },
   {
     "id": 14,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale vizio tipico dell'atto amministrativo è stato elaborato dalla giurisprudenza?",
     "options": [
       "L'eccesso di potere",
@@ -183,7 +183,7 @@
   },
   {
     "id": 15,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Come vengono definiti i regolamenti nel testo?",
     "options": [
       "Atti aventi forza di legge equiparati ai decreti legislativi",
@@ -196,7 +196,7 @@
   },
   {
     "id": 16,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è il riferimento normativo fondamentale per l'adozione dei regolamenti governativi citato nel testo?",
     "options": [
       "Art. 1 della Costituzione",
@@ -209,7 +209,7 @@
   },
   {
     "id": 17,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa caratterizza le 'ordinanze contingibili e urgenti'?",
     "options": [
       "Sono atti ordinari di gestione del personale",
@@ -222,7 +222,7 @@
   },
   {
     "id": 18,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale funzione svolgono le circolari e le linee guida (c.d. soft law)?",
     "options": [
       "Sono fonti normative primarie al pari della legge",
@@ -235,7 +235,7 @@
   },
   {
     "id": 19,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è il potere del Giudice Ordinario (G.O.) nei confronti di un atto amministrativo illegittimo, secondo l'art. 5 della L.A.C. citata nel testo?",
     "options": [
       "Può annullarlo con efficacia erga omnes",
@@ -248,7 +248,7 @@
   },
   {
     "id": 20,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Gli 'atti politici' sono impugnabili davanti al giudice amministrativo?",
     "options": [
       "Sì, sempre",
@@ -261,7 +261,7 @@
   },
   {
     "id": 21,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale principio vige in caso di contrasto tra un regolamento di un'autorità inferiore e quello di un'autorità superiore?",
     "options": [
       "Prevale sempre quello più recente (criterio cronologico)",
@@ -274,7 +274,7 @@
   },
   {
     "id": 22,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la differenza fondamentale tra 'attribuzione' e 'competenza' secondo il testo?",
     "options": [
       "Non c'è differenza, sono sinonimi",
@@ -287,7 +287,7 @@
   },
   {
     "id": 23,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa si intende per 'rapporto organico'?",
     "options": [
       "Il contratto di lavoro tra dipendente e P.A.",
@@ -300,7 +300,7 @@
   },
   {
     "id": 24,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Quali sono i tre tipi di decentramento presentati nel testo?",
     "options": [
       "Politico, Economico, Sociale",
@@ -313,7 +313,7 @@
   },
   {
     "id": 25,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Secondo l'art. 118 della Costituzione citato nel testo, quali principi regolano il riparto delle funzioni amministrative?",
     "options": [
       "Sussidiarietà, Differenziazione, Adeguatezza",
@@ -326,7 +326,7 @@
   },
   {
     "id": 26,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa caratterizza le 'Autorità Amministrative Indipendenti'?",
     "options": [
       "Sono sottoposte alla direzione politica del Governo",
@@ -339,7 +339,7 @@
   },
   {
     "id": 27,
-    "category": "Pubblico Impiego",
+    "category": "Principi di diritto amministrativo",
     "question": "A quale giudice sono devolute le controversie relative alle procedure concorsuali per l'assunzione?",
     "options": [
       "Sempre al Giudice Ordinario (Giudice del Lavoro)",
@@ -352,7 +352,7 @@
   },
   {
     "id": 28,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "È possibile spostare l'esercizio della competenza amministrativa?",
     "options": [
       "No, la competenza è sempre inderogabile e non trasferibile",
@@ -365,7 +365,7 @@
   },
   {
     "id": 29,
-    "category": "Pubblico Impiego",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale riforma ha introdotto sistemi di valutazione delle performance organizzative e individuali?",
     "options": [
       "La Riforma Bassanini",
@@ -378,7 +378,7 @@
   },
   {
     "id": 30,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la legge fondamentale che disciplina il procedimento amministrativo e il diritto di accesso?",
     "options": [
       "Legge Costituzionale 3/2001",
@@ -391,7 +391,7 @@
   },
   {
     "id": 31,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Chi è definito nel testo come il 'dominus' della fase istruttoria?",
     "options": [
       "Il dirigente dell'unità organizzativa",
@@ -404,7 +404,7 @@
   },
   {
     "id": 32,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cos'è il 'preavviso di rigetto' (art. 10-bis) e quando deve essere comunicato?",
     "options": [
       "È l'atto finale di diniego, comunicato alla fine del procedimento",
@@ -417,7 +417,7 @@
   },
   {
     "id": 33,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Entro quanti giorni l'interessato può presentare osservazioni dopo aver ricevuto il preavviso di rigetto?",
     "options": [
       "30 giorni",
@@ -430,7 +430,7 @@
   },
   {
     "id": 34,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Nella S.C.I.A. (Segnalazione Certificata di Inizio Attività), quanto tempo ha l'amministrazione per esercitare il potere inibitorio ordinario?",
     "options": [
       "30 giorni",
@@ -443,7 +443,7 @@
   },
   {
     "id": 35,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa si intende per 'silenzio-assenso'?",
     "options": [
       "L'inerzia della PA che equivale a un provvedimento di accoglimento (favorevole)",
@@ -456,7 +456,7 @@
   },
   {
     "id": 36,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Gli accordi tra P.A. e privati (art. 11) sono vincolanti?",
     "options": [
       "No, sono solo gentlemens' agreements",
@@ -469,7 +469,7 @@
   },
   {
     "id": 37,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la funzione della 'Conferenza di servizi'?",
     "options": [
       "È una riunione sindacale del personale pubblico",
@@ -482,7 +482,7 @@
   },
   {
     "id": 38,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "La mancata indicazione del responsabile del procedimento nell'atto finale comporta l'illegittimità del provvedimento?",
     "options": [
       "Sì, l'atto è nullo",
@@ -495,7 +495,7 @@
   },
   {
     "id": 39,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 1: In riferimento all'amministrazione globale, quale sfida contemporanea viene citata oltre al bilanciamento libertà/sicurezza?",
     "options": [
       "La reintroduzione dei dazi doganali",
@@ -508,7 +508,7 @@
   },
   {
     "id": 40,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 1: Quale legge ha introdotto la privatizzazione del pubblico impiego?",
     "options": [
       "Legge 241/1990",
@@ -521,7 +521,7 @@
   },
   {
     "id": 41,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 1: Qual è il principio costituzionale che impone che ogni potere normativo dell'esecutivo necessiti di una copertura legislativa?",
     "options": [
       "Principio di sussidiarietà",
@@ -534,7 +534,7 @@
   },
   {
     "id": 42,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 2: Secondo la 'definizione formale' di diritto amministrativo, qual è l'elemento decisivo?",
     "options": [
       "Lo scopo dell'attività",
@@ -547,7 +547,7 @@
   },
   {
     "id": 43,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 2: Quale caratteristica del diritto amministrativo permette di adattarsi rapidamente ai mutamenti politici e sociali (es. digitalizzazione)?",
     "options": [
       "La rigidità",
@@ -560,7 +560,7 @@
   },
   {
     "id": 44,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 2: Il diritto amministrativo è definito 'diritto speciale' perché:",
     "options": [
       "Si applica solo in tempo di guerra",
@@ -573,7 +573,7 @@
   },
   {
     "id": 45,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 3: Quale criterio risolve il contrasto tra una legge speciale precedente e una legge generale successiva?",
     "options": [
       "Criterio gerarchico",
@@ -586,7 +586,7 @@
   },
   {
     "id": 46,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 3: Le 'ordinanze contingibili e urgenti' sono considerate atti:",
     "options": [
       "Tipici e ordinari",
@@ -599,7 +599,7 @@
   },
   {
     "id": 47,
-    "category": "Diritto Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 3: Cosa accade se un regolamento governativo è privo di base legislativa?",
     "options": [
       "È valido per consuetudine",
@@ -612,7 +612,7 @@
   },
   {
     "id": 48,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 4: Quale tipo di decentramento prevede il trasferimento di funzioni a enti diversi dallo Stato?",
     "options": [
       "Decentramento Burocratico",
@@ -625,7 +625,7 @@
   },
   {
     "id": 49,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 4: La 'prorogatio' è l'istituto che consente:",
     "options": [
       "Di licenziare un dipendente pubblico",
@@ -638,7 +638,7 @@
   },
   {
     "id": 50,
-    "category": "Organizzazione P.A.",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 4: Secondo la dottrina prevalente, la riserva di legge sull'organizzazione dei pubblici uffici (art. 97 Cost.) è:",
     "options": [
       "Assoluta (tutto deve essere regolato dalla legge)",
@@ -651,7 +651,7 @@
   },
   {
     "id": 51,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 5: L'iniziativa procedimentale 'd'ufficio' può essere:",
     "options": [
       "Solo autonoma",
@@ -664,7 +664,7 @@
   },
   {
     "id": 52,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 5: Qual è la differenza tra accesso 'endo-procedimentale' ed 'eso-procedimentale'?",
     "options": [
       "Non c'è differenza",
@@ -677,7 +677,7 @@
   },
   {
     "id": 53,
-    "category": "Procedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Capitolo 5: Il 'silenzio devolutivo' (art. 17) si verifica quando:",
     "options": [
       "L'amministrazione non risponde al cittadino",
@@ -690,7 +690,7 @@
   },
   {
     "id": 54,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la caratteristica del provvedimento amministrativo definita 'imperatività'?",
     "options": [
       "La capacità di essere eseguito coattivamente",
@@ -703,7 +703,7 @@
   },
   {
     "id": 55,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Secondo l'art. 21-septies della L. 241/1990, quale tra i seguenti è causa di NULLITÀ del provvedimento?",
     "options": [
       "L'eccesso di potere",
@@ -716,7 +716,7 @@
   },
   {
     "id": 56,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "L'annullabilità (art. 21-octies) è il rimedio per quali vizi?",
     "options": [
       "Solo per incompetenza assoluta",
@@ -729,7 +729,7 @@
   },
   {
     "id": 57,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa si intende per 'esecutorietà' del provvedimento?",
     "options": [
       "L'attitudine a produrre effetti automaticamente",
@@ -742,7 +742,7 @@
   },
   {
     "id": 58,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la differenza tra 'nullità testuale' e 'nullità strutturale'?",
     "options": [
       "La nullità testuale è prevista espressamente dalla legge, quella strutturale deriva dalla mancanza di un elemento essenziale",
@@ -755,7 +755,7 @@
   },
   {
     "id": 59,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "L'annullamento d'ufficio (art. 21-nonies) richiede, oltre all'illegittimità dell'atto e al termine ragionevole, anche:",
     "options": [
       "Il consenso del destinatario",
@@ -768,7 +768,7 @@
   },
   {
     "id": 60,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale tra i seguenti è un elemento 'accidentale' del provvedimento amministrativo?",
     "options": [
       "La motivazione",
@@ -781,7 +781,7 @@
   },
   {
     "id": 61,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "La mancata indicazione del termine e dell'autorità a cui fare ricorso nel provvedimento comporta:",
     "options": [
       "La nullità dell'atto",
@@ -794,7 +794,7 @@
   },
   {
     "id": 62,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa si intende per 'motivazione' del provvedimento (art. 3 L. 241/90)?",
     "options": [
       "La firma del dirigente",
@@ -807,7 +807,7 @@
   },
   {
     "id": 63,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "L'art. 21-bis della L. 241/1990 subordina l'efficacia dei provvedimenti limitativi della sfera giuridica dei privati a cosa?",
     "options": [
       "Alla pubblicazione in Gazzetta Ufficiale",
@@ -820,7 +820,7 @@
   },
   {
     "id": 64,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la differenza tra 'revoca' e 'annullamento d'ufficio'?",
     "options": [
       "La revoca riguarda atti illegittimi, l'annullamento atti inopportuni",
@@ -833,7 +833,7 @@
   },
   {
     "id": 65,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Le ordinanze contingibili e urgenti sono un'eccezione a quale carattere del provvedimento?",
     "options": [
       "All'imperatività",
@@ -846,7 +846,7 @@
   },
   {
     "id": 66,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa si intende per 'convalida' del provvedimento?",
     "options": [
       "La rimozione del vizio di legittimità per conservare l'atto e i suoi effetti",
@@ -859,7 +859,7 @@
   },
   {
     "id": 67,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Il vizio di 'incompetenza' che porta all'annullabilità è:",
     "options": [
       "L'incompetenza assoluta (difetto di attribuzione)",
@@ -872,7 +872,7 @@
   },
   {
     "id": 68,
-    "category": "Provvedimento Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "La 'rettifica' di un provvedimento serve a:",
     "options": [
       "Annullare un atto illegittimo",
@@ -885,7 +885,7 @@
   },
   {
     "id": 69,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è la differenza principale tra nullità e annullabilità riguardo all'efficacia dell'atto?",
     "options": [
       "Nessuna, entrambi gli atti producono effetti finché non vengono rimossi",
@@ -898,7 +898,7 @@
   },
   {
     "id": 70,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "L'incompetenza 'relativa' comporta:",
     "options": [
       "La nullità dell'atto",
@@ -911,7 +911,7 @@
   },
   {
     "id": 71,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "In caso di 'invalidità derivata' con effetto CADUCANTE, cosa succede all'atto a valle se viene annullato l'atto presupposto?",
     "options": [
       "Nulla, l'atto a valle resta valido",
@@ -924,7 +924,7 @@
   },
   {
     "id": 72,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "Il Giudice Ordinario (G.O.) può annullare un atto amministrativo illegittimo?",
     "options": [
       "Sì, con efficacia erga omnes",
@@ -937,7 +937,7 @@
   },
   {
     "id": 73,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "L'eccesso di potere è definito come:",
     "options": [
       "La violazione di una norma penale da parte del funzionario",
@@ -950,7 +950,7 @@
   },
   {
     "id": 74,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "È possibile convalidare un atto nullo?",
     "options": [
       "Sì, sempre",
@@ -963,7 +963,7 @@
   },
   {
     "id": 75,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale vizio si configura se l'amministrazione non rispetta le indicazioni dell'art. 21-bis L. 241/90 (mancata comunicazione provvedimento limitativo)?",
     "options": [
       "Nullità per difetto di forma",
@@ -976,7 +976,7 @@
   },
   {
     "id": 76,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "L'inopportunità di un atto amministrativo costituisce:",
     "options": [
       "Un vizio di legittimità (annullabilità)",
@@ -989,7 +989,7 @@
   },
   {
     "id": 77,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "Il difetto assoluto di attribuzione (carenza di potere in astratto) comporta:",
     "options": [
       "Annullabilità",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": 78,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "La violazione delle norme sulla competenza territoriale di un organo determina:",
     "options": [
       "Incompetenza assoluta",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": 79,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "L'omissione di indicazioni obbligatorie non essenziali (es. responsabile del procedimento) nel provvedimento costituisce:",
     "options": [
       "Vizio di violazione di legge",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": 80,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "Da quando decorre il termine per impugnare un atto annullabile dinanzi al giudice amministrativo?",
     "options": [
       "Dalla data di adozione dell'atto",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 81,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "La revoca di un provvedimento (art. 21-quinquies) si differenzia dall'annullamento d'ufficio perché:",
     "options": [
       "La revoca colpisce atti illegittimi, l'annullamento atti inopportuni",
@@ -1054,7 +1054,7 @@
   },
   {
     "id": 82,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "L'invalidità sopravvenuta si verifica quando:",
     "options": [
       "L'atto nasce viziato",
@@ -1067,7 +1067,7 @@
   },
   {
     "id": 83,
-    "category": "Invalidità del Provvedimento",
+    "category": "Principi di diritto amministrativo",
     "question": "Se un atto è nullo, entro quale termine può essere accertata la nullità?",
     "options": [
       "Entro 60 giorni",
@@ -1080,7 +1080,7 @@
   },
   {
     "id": 84,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è il criterio cardine tradizionale per il riparto di giurisdizione tra Giudice Ordinario (G.O.) e Giudice Amministrativo (G.A.)?",
     "options": [
       "Il valore economico della causa",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 85,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Nella 'giurisdizione esclusiva' (art. 133 c.p.a.), il Giudice Amministrativo conosce:",
     "options": [
       "Solo degli interessi legittimi",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": 86,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Entro quale termine deve essere proposta, di regola, l'azione di nullità (art. 31 c.p.a.)?",
     "options": [
       "60 giorni",
@@ -1119,7 +1119,7 @@
   },
   {
     "id": 87,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Qual è il termine per proporre l'azione di condanna al risarcimento del danno (art. 30 c.p.a.)?",
     "options": [
       "60 giorni",
@@ -1132,7 +1132,7 @@
   },
   {
     "id": 88,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "L'azione avverso il silenzio della P.A. richiede la previa diffida ad adempiere?",
     "options": [
       "Sì, è condizione di procedibilità",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": 89,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Entro quanto tempo può essere proposta l'azione contro il silenzio-inadempimento?",
     "options": [
       "Entro 60 giorni dalla formazione del silenzio",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": 90,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Il 'giudizio di ottemperanza' serve a:",
     "options": [
       "Annullare un atto illegittimo in primo grado",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 91,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Il Ricorso Straordinario al Presidente della Repubblica è:",
     "options": [
       "Cumulabile con il ricorso al TAR",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 92,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Chi può richiedere la 'trasposizione' del ricorso straordinario in sede giurisdizionale (al TAR)?",
     "options": [
       "Il ricorrente stesso",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": 93,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Nelle controversie riguardanti i concorsi pubblici, la giurisdizione appartiene:",
     "options": [
       "Sempre al Giudice Ordinario (Giudice del Lavoro)",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": 94,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "La giurisdizione estesa al 'merito' del Giudice Amministrativo (art. 134 c.p.a.) è:",
     "options": [
       "La regola generale",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": 95,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Nel giudizio per il risarcimento del danno, il giudice valuta la condotta del ricorrente?",
     "options": [
       "No, il risarcimento è automatico se l'atto è illegittimo",
@@ -1236,7 +1236,7 @@
   },
   {
     "id": 96,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale organo funge da giudice d'appello contro le sentenze dei TAR?",
     "options": [
       "La Corte di Cassazione",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 97,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Il parere del Consiglio di Stato nel Ricorso Straordinario al Presidente della Repubblica è:",
     "options": [
       "Facoltativo",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": 98,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Per le controversie relative ai rapporti di lavoro alle dipendenze della P.A. (pubblico impiego privatizzato), la giurisdizione è del:",
     "options": [
       "Giudice Amministrativo in sede esclusiva",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": 99,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Il Codice del Processo Amministrativo (D.Lgs. 104/2010) esclude espressamente dal sindacato del giudice amministrativo:",
     "options": [
       "Gli atti politici dei supremi organi dello Stato",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 100,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Nel processo amministrativo, chi sono i 'controinteressati'?",
     "options": [
       "Coloro che hanno fatto ricorso",
@@ -1301,7 +1301,7 @@
   },
   {
     "id": 101,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "L'azione avverso il silenzio della P.A. si svolge con:",
     "options": [
       "Rito ordinario con udienza pubblica",
@@ -1314,7 +1314,7 @@
   },
   {
     "id": 102,
-    "category": "Atti e Provvedimenti",
+    "category": "Principi di diritto amministrativo",
     "question": "Secondo le tecniche di redazione, cosa deve contenere la 'motivazione' del provvedimento?",
     "options": [
       "Solo i riferimenti normativi",
@@ -1327,7 +1327,7 @@
   },
   {
     "id": 103,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Il FOIA (Freedom of Information Act - Accesso Civico Generalizzato) consente l'accesso:",
     "options": [
       "Solo a chi ha un interesse diretto, concreto e attuale",
@@ -1340,7 +1340,7 @@
   },
   {
     "id": 104,
-    "category": "Atti e Provvedimenti",
+    "category": "Principi di diritto amministrativo",
     "question": "Cosa si intende per 'motivazione per relationem'?",
     "options": [
       "Una motivazione orale",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": 105,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "Nel rito appalti (art. 120 c.p.a.), i termini processuali sono:",
     "options": [
       "Raddoppiati",
@@ -1366,7 +1366,7 @@
   },
   {
     "id": 106,
-    "category": "Atti e Provvedimenti",
+    "category": "Principi di diritto amministrativo",
     "question": "La mancata indicazione dell'autorità a cui ricorrere nel provvedimento finale comporta:",
     "options": [
       "La nullità dell'atto",
@@ -1379,7 +1379,7 @@
   },
   {
     "id": 107,
-    "category": "Atti e Provvedimenti",
+    "category": "Principi di diritto amministrativo",
     "question": "Il 'preavviso di rigetto' (art. 10-bis L. 241/90) si colloca:",
     "options": [
       "Dopo il provvedimento finale",
@@ -1392,7 +1392,7 @@
   },
   {
     "id": 108,
-    "category": "Processo Amministrativo",
+    "category": "Principi di diritto amministrativo",
     "question": "L'azione di risarcimento per danno da ritardo (art. 2-bis L. 241/90) può essere proposta:",
     "options": [
       "Solo se c'è stato annullamento dell'atto",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": 109,
-    "category": "Atti e Provvedimenti",
+    "category": "Principi di diritto amministrativo",
     "question": "La clausola di 'immediata efficacia' in un provvedimento limitativo serve a:",
     "options": [
       "Rendere l'atto retroattivo",
@@ -1418,7 +1418,7 @@
   },
   {
     "id": 110,
-    "category": "Atti e Provvedimenti",
+    "category": "Principi di diritto amministrativo",
     "question": "Quale tra i seguenti è un sintomo tipico dell'eccesso di potere rilevabile dalla motivazione?",
     "options": [
       "La brevità del testo",
