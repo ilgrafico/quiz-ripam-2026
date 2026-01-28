@@ -2,35 +2,1431 @@
   {
     "id": 1,
     "category": "Diritto Amministrativo",
-    "question": "Secondo la L. 241/90, il termine generale per la conclusione del procedimento amministrativo, se non diversamente stabilito, è di:",
-    "options": ["30 giorni", "60 giorni", "90 giorni", "45 giorni"],
-    "correctIndex": 0,
-    "explanation": "L'art. 2 comma 2 della L. 241/90 stabilisce in 30 giorni il termine generale."
+    "question": "Secondo la Costituzione italiana (art. 97), quali sono i due principi fondamentali che qualificano l'azione amministrativa come servizio alla collettività?",
+    "options": [
+      "Legalità e Trasparenza",
+      "Imparzialità e Buon andamento",
+      "Efficienza ed Economicità",
+      "Sussidiarietà e Proporzionalità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 1.1 cita espressamente l'art. 97 Cost. come fonte dei principi di imparzialità e buon andamento."
   },
   {
     "id": 2,
-    "category": "Informatica e CAD",
-    "question": "Nel Codice dell'Amministrazione Digitale, cosa si intende per 'domicilio digitale'?",
+    "category": "Diritto Amministrativo",
+    "question": "Cosa garantisce l'articolo 113 della Costituzione in relazione alla Pubblica Amministrazione?",
     "options": [
-      "La sede legale dell'ente",
-      "Un indirizzo elettronico eletto presso un servizio di recapito certificato (es. PEC)",
-      "Il sito web istituzionale",
-      "L'indirizzo IP del server"
+      "L'obbligo di motivazione degli atti",
+      "La privatizzazione del pubblico impiego",
+      "La tutela giurisdizionale piena ed effettiva contro qualsiasi atto della P.A.",
+      "Il pareggio di bilancio degli enti pubblici"
     ],
-    "correctIndex": 1,
-    "explanation": "Riferimento Art. 1-ter del CAD."
+    "correctIndex": 2,
+    "explanation": "L'art. 113 è il terzo pilastro citato nel testo, che riconosce al cittadino la possibilità di agire in giudizio contro gli atti della P.A."
   },
   {
     "id": 3,
-    "category": "Logica",
-    "question": "Se 'tutti gli assistenti sono precisi' e 'alcuni precisi sono simpatici', allora sicuramente:",
+    "category": "Diritto Amministrativo",
+    "question": "Quale importante novità ha introdotto la Legge n. 241/1990 citata nel testo?",
     "options": [
-      "Tutti gli assistenti sono simpatici",
-      "Alcuni assistenti potrebbero essere simpatici",
-      "Nessun assistente è simpatico",
-      "Tutti i simpatici sono assistenti"
+      "La privatizzazione del pubblico impiego",
+      "I principi di trasparenza, partecipazione e motivazione",
+      "La digitalizzazione della P.A.",
+      "La riforma della Corte dei Conti"
     ],
     "correctIndex": 1,
-    "explanation": "Sillogismo logico: l'intersezione tra insiemi non garantisce la totalità."
+    "explanation": "Come indicato nel paragrafo 1.2, la L. 241/1990 è la riforma fondamentale che ha introdotto trasparenza, partecipazione e motivazione."
+  },
+  {
+    "id": 4,
+    "category": "Diritto Amministrativo",
+    "question": "A quale provvedimento legislativo il testo associa la 'privatizzazione del pubblico impiego'?",
+    "options": [
+      "D.lgs. 50/2016",
+      "Legge n. 241/1990",
+      "D.lgs. 165/2001",
+      "Art. 97 della Costituzione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 1.2 attribuisce al d.lgs. 165/2001 il processo di avvicinamento del lavoro pubblico a quello privato."
+  },
+  {
+    "id": 5,
+    "category": "Diritto Amministrativo",
+    "question": "Quali principi sono imposti dalla Corte di giustizia dell'UE condizionando il diritto amministrativo italiano?",
+    "options": [
+      "Solo il principio di legalità",
+      "Concorrenza, proporzionalità e tutela effettiva",
+      "Centralismo e gerarchia",
+      "Sovranità nazionale assoluta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo specifica che il diritto europeo impone il rispetto dei principi di concorrenza, proporzionalità e tutela effettiva."
+  },
+  {
+    "id": 6,
+    "category": "Diritto Amministrativo",
+    "question": "Cosa si intende nel testo per 'amministrazione multilivello'?",
+    "options": [
+      "Un'amministrazione divisa solo tra Comuni e Regioni",
+      "Una struttura gerarchica rigida all'interno dei Ministeri",
+      "L'intreccio tra competenze nazionali, europee e internazionali",
+      "L'obbligo di avere più livelli di approvazione per ogni atto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 1.3 definisce l'amministrazione multilivello come quella in cui si intrecciano competenze nazionali, europee e internazionali."
+  },
+  {
+    "id": 7,
+    "category": "Diritto Amministrativo",
+    "question": "Qual è una delle nuove sfide dell'amministrazione contemporanea citate nel testo?",
+    "options": [
+      "Il ritorno al protezionismo economico",
+      "L'eliminazione totale della discrezionalità amministrativa",
+      "Il bilanciamento tra libertà individuali e sicurezza",
+      "La riduzione del numero dei parlamentari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il bilanciamento tra libertà individuali e sicurezza è esplicitamente citato come una delle sfide nel paragrafo 1.3."
+  },
+  {
+    "id": 8,
+    "category": "Diritto Amministrativo",
+    "question": "Il diritto amministrativo possiede un codice unitario simile al codice civile o penale?",
+    "options": [
+      "Sì, il Codice del Processo Amministrativo",
+      "Sì, il Testo Unico del Pubblico Impiego",
+      "No, è formato da leggi settoriali, principi costituzionali e giurisprudenza",
+      "No, si basa esclusivamente sulle consuetudini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 2.1 specifica chiaramente che non esiste un codice unitario, ma è un diritto formatosi storicamente e 'in divenire'."
+  },
+  {
+    "id": 9,
+    "category": "Diritto Amministrativo",
+    "question": "Secondo la definizione 'funzionale' (oggi la più accreditata), cosa disciplina il diritto amministrativo?",
+    "options": [
+      "Esclusivamente l'organizzazione interna degli uffici pubblici",
+      "L'insieme delle norme che regolano l'attività della P.A. basandosi solo sul soggetto agente",
+      "I modi in cui il potere pubblico è esercitato per soddisfare l'interesse generale, garantendo i diritti individuali",
+      "Tutte le attività finalizzate alla cura di interessi pubblici, incluse quelle svolte da privati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Come indicato nel paragrafo 2.2 (punto 3), la definizione funzionale coglie il rapporto dialettico tra autorità pubblica e garanzie del cittadino."
+  },
+  {
+    "id": 10,
+    "category": "Diritto Amministrativo",
+    "question": "Quale delle seguenti è una caratteristica distintiva del diritto amministrativo citata nel testo?",
+    "options": [
+      "La parità assoluta tra P.A. e privati in ogni ambito",
+      "La supremazia della P.A. che le consente di imporre decisioni unilaterali",
+      "La rigidità e l'immutabilità delle norme nel tempo",
+      "L'assenza di deroghe al diritto comune"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 2.5 cita la 'Supremazia della P.A. sui privati' e i poteri autoritativi come caratteristica peculiare."
+  },
+  {
+    "id": 11,
+    "category": "Diritto Amministrativo",
+    "question": "Qual è la funzione fondamentale del diritto amministrativo secondo il testo?",
+    "options": [
+      "Garantire esclusivamente l'efficienza dello Stato",
+      "Eliminare ogni forma di potere autoritativo",
+      "Garantire l'equilibrio tra autorità dell'azione pubblica e tutela delle libertà individuali",
+      "Favorire la privatizzazione di tutti i servizi pubblici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 2.4 descrive la funzione fondamentale come la ricerca dell'equilibrio tra efficienza/autorità e tutela delle libertà."
+  },
+  {
+    "id": 12,
+    "category": "Diritto Amministrativo",
+    "question": "Come è cambiato il rapporto tra diritto amministrativo e diritto privato?",
+    "options": [
+      "Si è assistito a una netta separazione e incomunicabilità tra i due",
+      "Il diritto privato è stato abolito per la Pubblica Amministrazione",
+      "Si assiste a un progressivo avvicinamento, con la P.A. che usa strumenti privatistici",
+      "La P.A. non può mai agire secondo le regole della buona fede"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 2.6 spiega che non c'è più una netta contrapposizione, ma un avvicinamento (es. uso di contratti, società partecipate)."
+  },
+  {
+    "id": 13,
+    "category": "Diritto Amministrativo",
+    "question": "Perché il diritto amministrativo è definito anche 'diritto giurisprudenziale'?",
+    "options": [
+      "Perché è creato esclusivamente dai giudici senza leggi scritte",
+      "Perché i giudici amministrativi (Consiglio di Stato) hanno elaborato categorie centrali come l'eccesso di potere",
+      "Perché si studia solo analizzando le sentenze penali",
+      "Perché i giudici vengono eletti direttamente dai cittadini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 2.7 evidenzia il ruolo creativo della giurisprudenza nell'elaborare concetti come l'eccesso di potere e l'interesse legittimo."
+  },
+  {
+    "id": 14,
+    "category": "Diritto Amministrativo",
+    "question": "Quale vizio tipico dell'atto amministrativo è stato elaborato dalla giurisprudenza?",
+    "options": [
+      "L'eccesso di potere",
+      "L'errore di calcolo",
+      "L'inadempimento contrattuale",
+      "Il dolo eventuale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Citato esplicitamente nel paragrafo 2.7 come categoria elaborata dai giudici amministrativi."
+  },
+  {
+    "id": 15,
+    "category": "Diritto Amministrativo",
+    "question": "Come vengono definiti i regolamenti nel testo?",
+    "options": [
+      "Atti aventi forza di legge equiparati ai decreti legislativi",
+      "Atti formalmente amministrativi, ma sostanzialmente normativi",
+      "Atti politici sottratti al sindacato giurisdizionale",
+      "Semplici circolari interne senza efficacia esterna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 3.4 definisce i regolamenti come atti che hanno la forma dell'atto amministrativo ma la sostanza normativa (generali e astratti)."
+  },
+  {
+    "id": 16,
+    "category": "Diritto Amministrativo",
+    "question": "Qual è il riferimento normativo fondamentale per l'adozione dei regolamenti governativi citato nel testo?",
+    "options": [
+      "Art. 1 della Costituzione",
+      "Legge n. 241/1990",
+      "Art. 17 della Legge n. 400/1988",
+      "Codice del Processo Amministrativo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 3.4 cita espressamente l'art. 17 della l. 400/1988 come fondamento del potere regolamentare governativo."
+  },
+  {
+    "id": 17,
+    "category": "Diritto Amministrativo",
+    "question": "Cosa caratterizza le 'ordinanze contingibili e urgenti'?",
+    "options": [
+      "Sono atti ordinari di gestione del personale",
+      "Sono atti atipici che possono derogare alla disciplina primaria per fronteggiare emergenze",
+      "Non possono mai derogare alla legge, nemmeno in caso di urgenza",
+      "Sono leggi costituzionali approvate dal Parlamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 3.5 spiega che tali ordinanze sono atti atipici giustificati dalla necessità che possono derogare alla disciplina primaria (nei limiti costituzionali)."
+  },
+  {
+    "id": 18,
+    "category": "Diritto Amministrativo",
+    "question": "Quale funzione svolgono le circolari e le linee guida (c.d. soft law)?",
+    "options": [
+      "Sono fonti normative primarie al pari della legge",
+      "Hanno solo valore storico e non vengono più usate",
+      "Svolgono una funzione para-normativa orientando l'azione amministrativa e uniformando le prassi",
+      "Servono esclusivamente per comunicazioni sindacali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 3.6 specifica che, pur non essendo di regola fonti normative, svolgono una funzione para-normativa di orientamento."
+  },
+  {
+    "id": 19,
+    "category": "Diritto Amministrativo",
+    "question": "Qual è il potere del Giudice Ordinario (G.O.) nei confronti di un atto amministrativo illegittimo, secondo l'art. 5 della L.A.C. citata nel testo?",
+    "options": [
+      "Può annullarlo con efficacia erga omnes",
+      "Può solo disapplicarlo incidentamente con effetti limitati al giudizio",
+      "Può modificarlo o revocarlo a suo piacimento",
+      "Non ha alcun potere e deve sospendere il giudizio"
+    ],
+    "correctIndex": 1,
+    "explanation": "I paragrafi 3.4.1 e 3.9 ribadiscono che il G.O. non annulla l'atto, ma ha il potere di disapplicazione incidentale con effetti inter partes."
+  },
+  {
+    "id": 20,
+    "category": "Diritto Amministrativo",
+    "question": "Gli 'atti politici' sono impugnabili davanti al giudice amministrativo?",
+    "options": [
+      "Sì, sempre",
+      "Sì, ma solo davanti al Consiglio di Stato",
+      "No, sono sottratti alla giurisdizione amministrativa (art. 7 c.p.a.)",
+      "Solo se riguardano la materia sanitaria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 3.9 (punto 2) afferma che gli atti politici sono sottratti alla giurisdizione amministrativa in quanto il controllo è politico-parlamentare."
+  },
+  {
+    "id": 21,
+    "category": "Diritto Amministrativo",
+    "question": "Quale principio vige in caso di contrasto tra un regolamento di un'autorità inferiore e quello di un'autorità superiore?",
+    "options": [
+      "Prevale sempre quello più recente (criterio cronologico)",
+      "I regolamenti inferiori non possono contrastare con quelli superiori (Gerarchia)",
+      "Prevale quello più favorevole al cittadino",
+      "Si applica il criterio della competenza territoriale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 3.4 elenca tra i limiti strutturali il fatto che un regolamento ministeriale (inferiore) non può derogare a un regolamento governativo (superiore)."
+  },
+  {
+    "id": 22,
+    "category": "Organizzazione P.A.",
+    "question": "Qual è la differenza fondamentale tra 'attribuzione' e 'competenza' secondo il testo?",
+    "options": [
+      "Non c'è differenza, sono sinonimi",
+      "L'attribuzione riguarda i poteri del singolo organo, la competenza l'area di interessi dell'ente",
+      "L'attribuzione è l'area di interessi pubblici dell'intero ente, la competenza è la misura di poteri del singolo organo",
+      "La competenza è solo territoriale, l'attribuzione è solo per materia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 4.3.1 distingue nettamente l'attribuzione (affidata all'amministrazione intera) dalla competenza (poteri del singolo organo)."
+  },
+  {
+    "id": 23,
+    "category": "Organizzazione P.A.",
+    "question": "Cosa si intende per 'rapporto organico'?",
+    "options": [
+      "Il contratto di lavoro tra dipendente e P.A.",
+      "Il meccanismo che consente l'imputazione diretta all'ente degli atti e dei comportamenti dell'organo",
+      "Il rapporto di parentela tra funzionari pubblici",
+      "La relazione tra organi dello Stato e organi dell'Unione Europea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 4.3 definisce il rapporto organico come quello che giustifica l'imputazione all'ente della volontà espressa dall'organo."
+  },
+  {
+    "id": 24,
+    "category": "Organizzazione P.A.",
+    "question": "Quali sono i tre tipi di decentramento presentati nel testo?",
+    "options": [
+      "Politico, Economico, Sociale",
+      "Burocratico, Autarchico, Funzionale",
+      "Legislativo, Esecutivo, Giudiziario",
+      "Statale, Regionale, Comunale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 4.4 elenca esplicitamente: Burocratico, Autarchico e Funzionale."
+  },
+  {
+    "id": 25,
+    "category": "Organizzazione P.A.",
+    "question": "Secondo l'art. 118 della Costituzione citato nel testo, quali principi regolano il riparto delle funzioni amministrative?",
+    "options": [
+      "Sussidiarietà, Differenziazione, Adeguatezza",
+      "Gerarchia, Competenza, Specialità",
+      "Eguaglianza, Libertà, Fraternità",
+      "Centralizzazione, Uniformità, Rigidità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il paragrafo 4.4 cita l'art. 118 Cost. e i tre principi cardine: sussidiarietà, differenziazione, adeguatezza."
+  },
+  {
+    "id": 26,
+    "category": "Organizzazione P.A.",
+    "question": "Cosa caratterizza le 'Autorità Amministrative Indipendenti'?",
+    "options": [
+      "Sono sottoposte alla direzione politica del Governo",
+      "Sono organi giurisdizionali speciali",
+      "Sono sottratte alla direzione politica diretta e presidiano mercati e diritti con poteri regolatori",
+      "Si occupano solo di edilizia residenziale pubblica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 4.7 le definisce come un modello peculiare sottratto alla direzione politica, con poteri regolatori e sanzionatori."
+  },
+  {
+    "id": 27,
+    "category": "Pubblico Impiego",
+    "question": "A quale giudice sono devolute le controversie relative alle procedure concorsuali per l'assunzione?",
+    "options": [
+      "Sempre al Giudice Ordinario (Giudice del Lavoro)",
+      "Al Giudice di Pace",
+      "Al Giudice Amministrativo (TAR)",
+      "Alla Corte dei Conti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 4.8 specifica che, mentre il rapporto di lavoro privatizzato va al G.O., le procedure concorsuali restano al Giudice Amministrativo."
+  },
+  {
+    "id": 28,
+    "category": "Organizzazione P.A.",
+    "question": "È possibile spostare l'esercizio della competenza amministrativa?",
+    "options": [
+      "No, la competenza è sempre inderogabile e non trasferibile",
+      "Sì, ma solo tramite modifica della Costituzione",
+      "Sì, tramite istituti come delega, avocazione e sostituzione (spostamento dell'esercizio, non della titolarità)",
+      "Sì, basta un accordo verbale tra uffici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 4.3.1 chiarisce che l'ordinamento ammette lo spostamento dell'esercizio (ma non della titolarità) tramite delega, avocazione, sostituzione."
+  },
+  {
+    "id": 29,
+    "category": "Pubblico Impiego",
+    "question": "Quale riforma ha introdotto sistemi di valutazione delle performance organizzative e individuali?",
+    "options": [
+      "La Riforma Bassanini",
+      "La Riforma Brunetta (d.lgs. 150/2009)",
+      "La Legge Severino",
+      "Il Jobs Act"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 4.8 attribuisce alla riforma 'Brunetta' (d.lgs. 150/2009) l'introduzione dei sistemi di valutazione delle performance."
+  },
+  {
+    "id": 30,
+    "category": "Procedimento Amministrativo",
+    "question": "Qual è la legge fondamentale che disciplina il procedimento amministrativo e il diritto di accesso?",
+    "options": [
+      "Legge Costituzionale 3/2001",
+      "Legge 241/1990",
+      "D.lgs. 165/2001",
+      "D.lgs. 50/2016"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 5.1 identifica la L. 241/1990 come la norma che ha fissato la disciplina generale e i principi di partecipazione."
+  },
+  {
+    "id": 31,
+    "category": "Procedimento Amministrativo",
+    "question": "Chi è definito nel testo come il 'dominus' della fase istruttoria?",
+    "options": [
+      "Il dirigente dell'unità organizzativa",
+      "Il Ministro competente",
+      "Il responsabile del procedimento",
+      "Il giudice amministrativo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 5.2.2 indica il responsabile del procedimento come il dominus della fase istruttoria."
+  },
+  {
+    "id": 32,
+    "category": "Procedimento Amministrativo",
+    "question": "Cos'è il 'preavviso di rigetto' (art. 10-bis) e quando deve essere comunicato?",
+    "options": [
+      "È l'atto finale di diniego, comunicato alla fine del procedimento",
+      "È una comunicazione che precede l'avvio del procedimento",
+      "È la comunicazione dei motivi ostativi all'accoglimento, da inviare prima dell'adozione del provvedimento finale",
+      "È un atto interno non comunicabile al cittadino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 5.4.2 spiega che l'art. 10-bis impone di comunicare i motivi che impediscono l'accoglimento prima della decisione finale."
+  },
+  {
+    "id": 33,
+    "category": "Procedimento Amministrativo",
+    "question": "Entro quanti giorni l'interessato può presentare osservazioni dopo aver ricevuto il preavviso di rigetto?",
+    "options": [
+      "30 giorni",
+      "60 giorni",
+      "10 giorni",
+      "20 giorni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 5.4.2 specifica il termine di 10 giorni per presentare osservazioni scritte o documenti."
+  },
+  {
+    "id": 34,
+    "category": "Procedimento Amministrativo",
+    "question": "Nella S.C.I.A. (Segnalazione Certificata di Inizio Attività), quanto tempo ha l'amministrazione per esercitare il potere inibitorio ordinario?",
+    "options": [
+      "30 giorni",
+      "60 giorni",
+      "90 giorni",
+      "18 mesi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 8.1 e 8.2 indicano che la PA può esercitare il potere inibitorio entro 60 giorni dalla segnalazione."
+  },
+  {
+    "id": 35,
+    "category": "Procedimento Amministrativo",
+    "question": "Cosa si intende per 'silenzio-assenso'?",
+    "options": [
+      "L'inerzia della PA che equivale a un provvedimento di accoglimento (favorevole)",
+      "L'inerzia della PA che equivale a un rigetto dell'istanza",
+      "Il mancato rispetto dell'obbligo di provvedere che richiede ricorso al giudice",
+      "Il silenzio mantenuto durante una conferenza di servizi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il paragrafo 7.1 definisce il silenzio-assenso come un silenzio significativo equiparato a provvedimento favorevole."
+  },
+  {
+    "id": 36,
+    "category": "Procedimento Amministrativo",
+    "question": "Gli accordi tra P.A. e privati (art. 11) sono vincolanti?",
+    "options": [
+      "No, sono solo gentlemens' agreements",
+      "Sì, sono vincolanti per entrambe le parti, salvo recesso della PA per motivi di pubblico interesse",
+      "Sì, ma solo per il privato",
+      "No, perché la PA non può negoziare il potere pubblico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 9.2 specifica che gli accordi sono vincolanti, ma la PA mantiene la facoltà di recesso per motivi di interesse pubblico."
+  },
+  {
+    "id": 37,
+    "category": "Procedimento Amministrativo",
+    "question": "Qual è la funzione della 'Conferenza di servizi'?",
+    "options": [
+      "È una riunione sindacale del personale pubblico",
+      "È un istituto di concentrazione delle valutazioni di più amministrazioni su un medesimo procedimento",
+      "È il luogo dove si discutono le nuove leggi amministrative",
+      "È l'ufficio che gestisce il protocollo informatico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 6.1 descrive la conferenza di servizi come istituto per concentrare le valutazioni di più amministrazioni portatrici di interessi pubblici."
+  },
+  {
+    "id": 38,
+    "category": "Procedimento Amministrativo",
+    "question": "La mancata indicazione del responsabile del procedimento nell'atto finale comporta l'illegittimità del provvedimento?",
+    "options": [
+      "Sì, l'atto è nullo",
+      "Sì, l'atto è annullabile",
+      "No, si tratta di una semplice irregolarità",
+      "Dipende dalla discrezionalità del giudice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 5.5 (e anche il punto 12) chiarisce che l'omissione di questi elementi costituisce di regola una irregolarità, non un vizio invalidante."
+  },
+  {
+    "id": 39,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 1: In riferimento all'amministrazione globale, quale sfida contemporanea viene citata oltre al bilanciamento libertà/sicurezza?",
+    "options": [
+      "La reintroduzione dei dazi doganali",
+      "La regolazione dei mercati globali",
+      "La nazionalizzazione delle banche",
+      "L'abolizione della proprietà privata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 1.3 cita espressamente la regolazione dei mercati globali e la protezione dei diritti in dimensione transnazionale."
+  },
+  {
+    "id": 40,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 1: Quale legge ha introdotto la privatizzazione del pubblico impiego?",
+    "options": [
+      "Legge 241/1990",
+      "D.lgs. 165/2001",
+      "D.lgs. 50/2016",
+      "Costituzione art. 97"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dettaglio normativo del paragrafo 1.2: il D.lgs. 165/2001 è la norma cardine della privatizzazione del lavoro pubblico."
+  },
+  {
+    "id": 41,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 1: Qual è il principio costituzionale che impone che ogni potere normativo dell'esecutivo necessiti di una copertura legislativa?",
+    "options": [
+      "Principio di sussidiarietà",
+      "Principio di legalità in senso formale",
+      "Principio di buon andamento",
+      "Principio del legittimo affidamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Riferimento al paragrafo 3.2 (che richiama i principi del Cap 1): il potere normativo del Governo deve basarsi sulla legge (art. 70 Cost)."
+  },
+  {
+    "id": 42,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 2: Secondo la 'definizione formale' di diritto amministrativo, qual è l'elemento decisivo?",
+    "options": [
+      "Lo scopo dell'attività",
+      "La qualifica soggettiva del soggetto che agisce (se è P.A.)",
+      "Il rispetto dei diritti umani",
+      "L'uso della forza pubblica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 2.2 distingue la definizione formale (chi agisce) da quella sostanziale (lo scopo)."
+  },
+  {
+    "id": 43,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 2: Quale caratteristica del diritto amministrativo permette di adattarsi rapidamente ai mutamenti politici e sociali (es. digitalizzazione)?",
+    "options": [
+      "La rigidità",
+      "La codificazione",
+      "L'elasticità e mutevolezza",
+      "L'inderogabilità"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 2.5 cita l'elasticità e mutevolezza come caratteristica distintiva rispetto ad altri rami del diritto."
+  },
+  {
+    "id": 44,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 2: Il diritto amministrativo è definito 'diritto speciale' perché:",
+    "options": [
+      "Si applica solo in tempo di guerra",
+      "Le sue norme derogano spesso al diritto comune",
+      "È superiore alla Costituzione",
+      "Riguarda solo i ministeri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 2.5: La specialità implica che le norme amministrative deroghino al diritto civile comune."
+  },
+  {
+    "id": 45,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 3: Quale criterio risolve il contrasto tra una legge speciale precedente e una legge generale successiva?",
+    "options": [
+      "Criterio gerarchico",
+      "Criterio cronologico puro",
+      "Criterio di specialità (lex specialis derogat generali)",
+      "Criterio di competenza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 3.8: La legge speciale deroga quella generale, anche se quest'ultima è successiva (salvo espressa abrogazione)."
+  },
+  {
+    "id": 46,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 3: Le 'ordinanze contingibili e urgenti' sono considerate atti:",
+    "options": [
+      "Tipici e ordinari",
+      "Atipici, giustificati dalla necessità",
+      "Legislativi a tutti gli effetti",
+      "Di diritto privato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 3.5: Sono atti atipici perché il contenuto non è predeterminato dalla legge, ma modellato sull'urgenza del caso concreto."
+  },
+  {
+    "id": 47,
+    "category": "Diritto Amministrativo",
+    "question": "Capitolo 3: Cosa accade se un regolamento governativo è privo di base legislativa?",
+    "options": [
+      "È valido per consuetudine",
+      "Diventa una legge costituzionale",
+      "È invalido per carenza di potere (violazione principio di legalità)",
+      "Si applica solo se favorevole al cittadino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 3.4: In difetto di base legislativa (legalità formale), il regolamento è emanato in carenza di potere."
+  },
+  {
+    "id": 48,
+    "category": "Organizzazione P.A.",
+    "question": "Capitolo 4: Quale tipo di decentramento prevede il trasferimento di funzioni a enti diversi dallo Stato?",
+    "options": [
+      "Decentramento Burocratico",
+      "Decentramento Autarchico",
+      "Decentramento Gerarchico",
+      "Decentramento Improprio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4.4: Il decentramento autarchico riguarda enti diversi dallo Stato (es. enti pubblici), distinguendosi da quello burocratico (uffici periferici dello stesso ente)."
+  },
+  {
+    "id": 49,
+    "category": "Organizzazione P.A.",
+    "question": "Capitolo 4: La 'prorogatio' è l'istituto che consente:",
+    "options": [
+      "Di licenziare un dipendente pubblico",
+      "Al titolare di un organo di continuare ad esercitare le funzioni fino alla sostituzione, anche se scaduto",
+      "Di prorogare i termini di un concorso",
+      "Di estendere la validità di un passaporto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4.3: La prorogatio garantisce la continuità dell'azione amministrativa nel passaggio tra vecchi e nuovi titolari."
+  },
+  {
+    "id": 50,
+    "category": "Organizzazione P.A.",
+    "question": "Capitolo 4: Secondo la dottrina prevalente, la riserva di legge sull'organizzazione dei pubblici uffici (art. 97 Cost.) è:",
+    "options": [
+      "Assoluta (tutto deve essere regolato dalla legge)",
+      "Relativa (la legge fissa le linee guida, i regolamenti il dettaglio)",
+      "Inesistente",
+      "Costituzionale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4.4 (fine): La dottrina qualifica la riserva dell'art. 97 come relativa, lasciando spazio alla potestà regolamentare."
+  },
+  {
+    "id": 51,
+    "category": "Procedimento Amministrativo",
+    "question": "Capitolo 5: L'iniziativa procedimentale 'd'ufficio' può essere:",
+    "options": [
+      "Solo autonoma",
+      "Solo su istanza di parte",
+      "Autonoma (stesso organo) o Eteronoma (impulso da organo diverso)",
+      "Esclusivamente giudiziaria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 5.2.1: Specifica la distinzione tecnica tra iniziativa d'ufficio autonoma ed eteronoma (es. proposta o richiesta)."
+  },
+  {
+    "id": 52,
+    "category": "Procedimento Amministrativo",
+    "question": "Capitolo 5: Qual è la differenza tra accesso 'endo-procedimentale' ed 'eso-procedimentale'?",
+    "options": [
+      "Non c'è differenza",
+      "L'endo-procedimentale è per chi partecipa al procedimento (art. 10), l'eso-procedimentale è per terzi con interesse qualificato (art. 22)",
+      "L'endo-procedimentale è a pagamento, l'altro no",
+      "L'eso-procedimentale riguarda solo gli atti segreti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 5.4.3: Distinzione cruciale. L'accesso endo-procedimentale è un diritto partecipativo interno al procedimento in corso."
+  },
+  {
+    "id": 53,
+    "category": "Procedimento Amministrativo",
+    "question": "Capitolo 5: Il 'silenzio devolutivo' (art. 17) si verifica quando:",
+    "options": [
+      "L'amministrazione non risponde al cittadino",
+      "Un organo intermedio non fornisce un parere o atto istruttorio obbligatorio, consentendo di procedere senza",
+      "Il giudice ordina di provvedere",
+      "C'è un accordo tra privati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 6.3 e 7.1: Il silenzio devolutivo è un meccanismo di semplificazione interna quando manca un atto istruttorio di un altro organo."
+  },
+  {
+    "id": 54,
+    "category": "Provvedimento Amministrativo",
+    "question": "Qual è la caratteristica del provvedimento amministrativo definita 'imperatività'?",
+    "options": [
+      "La capacità di essere eseguito coattivamente",
+      "La capacità di produrre effetti giuridici verso terzi unilateralmente, senza il loro consenso",
+      "L'impossibilità di essere impugnato dopo un certo termine",
+      "La necessità di essere sempre scritto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 6.2 definisce l'imperatività come la capacità di produrre effetti unilaterali nella sfera giuridica altrui senza consenso."
+  },
+  {
+    "id": 55,
+    "category": "Provvedimento Amministrativo",
+    "question": "Secondo l'art. 21-septies della L. 241/1990, quale tra i seguenti è causa di NULLITÀ del provvedimento?",
+    "options": [
+      "L'eccesso di potere",
+      "La violazione di legge",
+      "Il difetto assoluto di attribuzione",
+      "L'incompetenza relativa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 6.7.1 elenca tassativamente le cause di nullità: mancanza elementi essenziali, difetto assoluto di attribuzione, violazione del giudicato, nullità testuale."
+  },
+  {
+    "id": 56,
+    "category": "Provvedimento Amministrativo",
+    "question": "L'annullabilità (art. 21-octies) è il rimedio per quali vizi?",
+    "options": [
+      "Solo per incompetenza assoluta",
+      "Per mancanza di forma scritta",
+      "Violazione di legge, incompetenza (relativa) ed eccesso di potere",
+      "Solo per violazione del giudicato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 6.7.2 identifica i tre vizi classici di legittimità che portano all'annullabilità: violazione di legge, incompetenza, eccesso di potere."
+  },
+  {
+    "id": 57,
+    "category": "Provvedimento Amministrativo",
+    "question": "Cosa si intende per 'esecutorietà' del provvedimento?",
+    "options": [
+      "L'attitudine a produrre effetti automaticamente",
+      "L'idoneità a essere portato a esecuzione coattiva anche contro la volontà del destinatario, senza previa sentenza",
+      "La possibilità di essere annullato dal giudice",
+      "La conformità alla legge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 6.2 distingue l'esecutorietà (potere di esecuzione coattiva diretta) dall'esecutività (produzione automatica di effetti)."
+  },
+  {
+    "id": 58,
+    "category": "Provvedimento Amministrativo",
+    "question": "Qual è la differenza tra 'nullità testuale' e 'nullità strutturale'?",
+    "options": [
+      "La nullità testuale è prevista espressamente dalla legge, quella strutturale deriva dalla mancanza di un elemento essenziale",
+      "La nullità testuale riguarda solo i testi scritti, quella strutturale gli edifici",
+      "Non c'è differenza",
+      "La nullità strutturale è sanabile, quella testuale no"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il paragrafo 6.7.1 distingue le due categorie: testuale (casi previsti dalla legge) e strutturale (mancanza di elementi essenziali come oggetto, forma, ecc)."
+  },
+  {
+    "id": 59,
+    "category": "Provvedimento Amministrativo",
+    "question": "L'annullamento d'ufficio (art. 21-nonies) richiede, oltre all'illegittimità dell'atto e al termine ragionevole, anche:",
+    "options": [
+      "Il consenso del destinatario",
+      "Un interesse pubblico concreto e attuale alla rimozione dell'atto",
+      "Il parere vincolante del Consiglio di Stato",
+      "L'approvazione del Parlamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 6.8.1 specifica che non basta ripristinare la legalità, serve un interesse pubblico concreto e la valutazione dell'affidamento del privato."
+  },
+  {
+    "id": 60,
+    "category": "Provvedimento Amministrativo",
+    "question": "Quale tra i seguenti è un elemento 'accidentale' del provvedimento amministrativo?",
+    "options": [
+      "La motivazione",
+      "L'oggetto",
+      "La condizione (sospensiva o risolutiva)",
+      "Il soggetto emittente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 6.4 elenca termine, condizione, onere e riserva come elementi accidentali (non essenziali)."
+  },
+  {
+    "id": 61,
+    "category": "Provvedimento Amministrativo",
+    "question": "La mancata indicazione del termine e dell'autorità a cui fare ricorso nel provvedimento comporta:",
+    "options": [
+      "La nullità dell'atto",
+      "L'annullabilità dell'atto",
+      "Una semplice irregolarità, non vizio di legittimità",
+      "L'inesistenza dell'atto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 6.3.2 chiarisce che la mancata indicazione di questi elementi (artt. 7 e 8) costituisce irregolarità e non illegittimità."
+  },
+  {
+    "id": 62,
+    "category": "Provvedimento Amministrativo",
+    "question": "Cosa si intende per 'motivazione' del provvedimento (art. 3 L. 241/90)?",
+    "options": [
+      "La firma del dirigente",
+      "L'indicazione dei presupposti di fatto e delle ragioni giuridiche che hanno determinato la decisione",
+      "L'elenco dei destinatari",
+      "La data di emissione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 6.3.3 spiega che la motivazione rende verificabile il percorso logico-giuridico seguito dall'amministrazione."
+  },
+  {
+    "id": 63,
+    "category": "Provvedimento Amministrativo",
+    "question": "L'art. 21-bis della L. 241/1990 subordina l'efficacia dei provvedimenti limitativi della sfera giuridica dei privati a cosa?",
+    "options": [
+      "Alla pubblicazione in Gazzetta Ufficiale",
+      "Alla comunicazione al destinatario (atti recettizi)",
+      "All'approvazione della Corte dei Conti",
+      "Al decorso di 30 giorni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 6.5 cita l'art. 21-bis: per i provvedimenti limitativi (sfavorevoli), l'efficacia dipende dalla comunicazione al destinatario."
+  },
+  {
+    "id": 64,
+    "category": "Provvedimento Amministrativo",
+    "question": "Qual è la differenza tra 'revoca' e 'annullamento d'ufficio'?",
+    "options": [
+      "La revoca riguarda atti illegittimi, l'annullamento atti inopportuni",
+      "La revoca colpisce atti inopportuni (per sopravvenuti motivi o nuova valutazione), l'annullamento colpisce atti illegittimi originariamente",
+      "Sono sinonimi",
+      "L'annullamento ha effetti solo per il futuro (ex nunc), la revoca retroagisce (ex tunc)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 6.8.1: L'annullamento presuppone l'illegittimità originaria (vizio); la revoca (art. 21-quinquies) riguarda il merito (opportunità) o sopravvenienze."
+  },
+  {
+    "id": 65,
+    "category": "Provvedimento Amministrativo",
+    "question": "Le ordinanze contingibili e urgenti sono un'eccezione a quale carattere del provvedimento?",
+    "options": [
+      "All'imperatività",
+      "Alla tipicità (hanno contenuto atipico)",
+      "All'esecutorietà",
+      "Alla forma scritta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il paragrafo 6.2 indica che le ordinanze sono l'eccezione classica alla tipicità, avendo contenuto atipico per fronteggiare emergenze."
+  },
+  {
+    "id": 66,
+    "category": "Provvedimento Amministrativo",
+    "question": "Cosa si intende per 'convalida' del provvedimento?",
+    "options": [
+      "La rimozione del vizio di legittimità per conservare l'atto e i suoi effetti",
+      "La distruzione dell'atto",
+      "La trasformazione in un atto diverso",
+      "La correzione di meri errori materiali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il paragrafo 6.8.2 definisce la convalida come misura conservativa che rimuove il vizio mantenendo in vita l'atto."
+  },
+  {
+    "id": 67,
+    "category": "Provvedimento Amministrativo",
+    "question": "Il vizio di 'incompetenza' che porta all'annullabilità è:",
+    "options": [
+      "L'incompetenza assoluta (difetto di attribuzione)",
+      "L'incompetenza relativa (violazione della competenza interna all'ente o plesso)",
+      "L'incapacità naturale del funzionario",
+      "La mancanza di fondi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafi 6.7.1 e 6.7.2: L'incompetenza assoluta porta a nullità; quella relativa porta ad annullabilità."
+  },
+  {
+    "id": 68,
+    "category": "Provvedimento Amministrativo",
+    "question": "La 'rettifica' di un provvedimento serve a:",
+    "options": [
+      "Annullare un atto illegittimo",
+      "Sanare un vizio di incompetenza",
+      "Correggere errori materiali o di calcolo, con effetti retroattivi",
+      "Revocare un atto per motivi di opportunità"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il paragrafo 6.8.2 distingue la rettifica (correzione errori materiali) dagli altri istituti di autotutela."
+  },
+  {
+    "id": 69,
+    "category": "Invalidità del Provvedimento",
+    "question": "Qual è la differenza principale tra nullità e annullabilità riguardo all'efficacia dell'atto?",
+    "options": [
+      "Nessuna, entrambi gli atti producono effetti finché non vengono rimossi",
+      "L'atto nullo è inefficace sin dall'origine (ex tunc), l'atto annullabile produce effetti provvisori fino all'annullamento",
+      "L'atto nullo produce effetti per 60 giorni, poi scade",
+      "L'atto annullabile è sempre inefficace"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 7: La nullità impedisce all'atto di produrre effetti (quod nullum est nullum producit effectum); l'annullabilità permette effetti precari."
+  },
+  {
+    "id": 70,
+    "category": "Invalidità del Provvedimento",
+    "question": "L'incompetenza 'relativa' comporta:",
+    "options": [
+      "La nullità dell'atto",
+      "L'inesistenza dell'atto",
+      "L'annullabilità dell'atto",
+      "Una semplice irregolarità non sanzionabile"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 4.1: Se il potere esiste ma è esercitato dall'ufficio sbagliato (incompetenza relativa), l'atto è annullabile, non nullo."
+  },
+  {
+    "id": 71,
+    "category": "Invalidità del Provvedimento",
+    "question": "In caso di 'invalidità derivata' con effetto CADUCANTE, cosa succede all'atto a valle se viene annullato l'atto presupposto?",
+    "options": [
+      "Nulla, l'atto a valle resta valido",
+      "L'atto a valle deve essere impugnato autonomamente entro 60 giorni",
+      "L'atto a valle viene travolto automaticamente",
+      "L'atto a valle diventa irregolare ma efficace"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 10: L'effetto caducante si verifica quando l'atto presupposto è indispensabile, travolgendo automaticamente quelli conseguenti."
+  },
+  {
+    "id": 72,
+    "category": "Invalidità del Provvedimento",
+    "question": "Il Giudice Ordinario (G.O.) può annullare un atto amministrativo illegittimo?",
+    "options": [
+      "Sì, con efficacia erga omnes",
+      "No, può solo disapplicarlo incidenter tantum (ai fini della decisione del caso concreto)",
+      "Sì, ma solo se riguarda diritti soggettivi",
+      "No, deve sospendere il giudizio e inviare gli atti al TAR"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 7 e 11: Il G.O. non ha potere demolitorio (annullamento) ma solo di disapplicazione nel caso specifico."
+  },
+  {
+    "id": 73,
+    "category": "Invalidità del Provvedimento",
+    "question": "L'eccesso di potere è definito come:",
+    "options": [
+      "La violazione di una norma penale da parte del funzionario",
+      "Un vizio elastico che segnala sviamento dall'interesse pubblico o irragionevolezza",
+      "La mancanza di firma sul documento",
+      "L'emanazione di un atto da parte di un organo assolutamente privo di potere"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4.3: L'eccesso di potere riguarda il cattivo uso della discrezionalità (sviamento, illogicità, disparità di trattamento)."
+  },
+  {
+    "id": 74,
+    "category": "Invalidità del Provvedimento",
+    "question": "È possibile convalidare un atto nullo?",
+    "options": [
+      "Sì, sempre",
+      "Sì, entro 60 giorni",
+      "No, l'atto nullo non è convalidabile (può solo essere convertito se ne ricorrono i presupposti)",
+      "Sì, ma solo con decreto del Presidente della Repubblica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 2: La nullità è insanabile e non convalidabile. L'unico recupero possibile è la conversione (art. 21-septies)."
+  },
+  {
+    "id": 75,
+    "category": "Invalidità del Provvedimento",
+    "question": "Quale vizio si configura se l'amministrazione non rispetta le indicazioni dell'art. 21-bis L. 241/90 (mancata comunicazione provvedimento limitativo)?",
+    "options": [
+      "Nullità per difetto di forma",
+      "Inefficacia dell'atto (fino alla comunicazione)",
+      "Inesistenza giuridica",
+      "Irregolarità non sanzionabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 9: La mancata comunicazione incide sull'efficacia dell'atto (che non produce effetti), non sulla sua validità intrinseca."
+  },
+  {
+    "id": 76,
+    "category": "Invalidità del Provvedimento",
+    "question": "L'inopportunità di un atto amministrativo costituisce:",
+    "options": [
+      "Un vizio di legittimità (annullabilità)",
+      "Un vizio di merito",
+      "Una causa di nullità",
+      "Un reato penale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 6 e 8: L'inopportunità attiene al merito (scelta discrezionale non conveniente), non alla legittimità (contrasto con la legge)."
+  },
+  {
+    "id": 77,
+    "category": "Invalidità del Provvedimento",
+    "question": "Il difetto assoluto di attribuzione (carenza di potere in astratto) comporta:",
+    "options": [
+      "Annullabilità",
+      "Nullità (o inesistenza)",
+      "Mera irregolarità",
+      "Sospensione dell'atto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 2 e 4.1: Se manca la norma che attribuisce il potere, l'atto è radicalmente nullo (o inesistente)."
+  },
+  {
+    "id": 78,
+    "category": "Invalidità del Provvedimento",
+    "question": "La violazione delle norme sulla competenza territoriale di un organo determina:",
+    "options": [
+      "Incompetenza assoluta",
+      "Incompetenza relativa (annullabilità)",
+      "Violazione di legge generica",
+      "Eccesso di potere per sviamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4.1 e Caso-scuola 1: L'incompetenza per territorio (dentro lo stesso plesso amministrativo) è relativa e porta all'annullabilità."
+  },
+  {
+    "id": 79,
+    "category": "Invalidità del Provvedimento",
+    "question": "L'omissione di indicazioni obbligatorie non essenziali (es. responsabile del procedimento) nel provvedimento costituisce:",
+    "options": [
+      "Vizio di violazione di legge",
+      "Vizio di eccesso di potere",
+      "Mera irregolarità (non invalidità)",
+      "Causa di inesistenza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 5: Le indicazioni formali (artt. 7-8 L. 241/90) omesse generano irregolarità, non illegittimità dell'atto."
+  },
+  {
+    "id": 80,
+    "category": "Invalidità del Provvedimento",
+    "question": "Da quando decorre il termine per impugnare un atto annullabile dinanzi al giudice amministrativo?",
+    "options": [
+      "Dalla data di adozione dell'atto",
+      "Dalla notificazione, comunicazione o piena conoscenza dell'atto",
+      "Dal momento in cui l'atto produce effetti",
+      "Senza alcun termine (imprescrittibile)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 3: Il termine decadenziale decorre dalla conoscenza legale (notifica/comunicazione) o effettiva (piena conoscenza)."
+  },
+  {
+    "id": 81,
+    "category": "Invalidità del Provvedimento",
+    "question": "La revoca di un provvedimento (art. 21-quinquies) si differenzia dall'annullamento d'ufficio perché:",
+    "options": [
+      "La revoca colpisce atti illegittimi, l'annullamento atti inopportuni",
+      "La revoca è un rimedio di merito (opportunità/sopravvenienze), l'annullamento è un rimedio di legittimità (vizi originari)",
+      "La revoca ha efficacia retroattiva (ex tunc), l'annullamento solo ex nunc",
+      "La revoca può essere disposta solo dal giudice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 8: Distinzione chiave. Revoca = merito/opportunità; Annullamento d'ufficio = legittimità/vizio giuridico."
+  },
+  {
+    "id": 82,
+    "category": "Invalidità del Provvedimento",
+    "question": "L'invalidità sopravvenuta si verifica quando:",
+    "options": [
+      "L'atto nasce viziato",
+      "L'atto è valido al momento dell'adozione ma diventa difforme per una causa successiva (es. nuova legge retroattiva o incostituzionalità)",
+      "L'atto viene annullato in autotutela",
+      "L'atto non viene comunicato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 6: Definizione di invalidità sopravvenuta (atto nato sano che si ammala dopo)."
+  },
+  {
+    "id": 83,
+    "category": "Invalidità del Provvedimento",
+    "question": "Se un atto è nullo, entro quale termine può essere accertata la nullità?",
+    "options": [
+      "Entro 60 giorni",
+      "Entro 180 giorni",
+      "In ogni tempo (imprescrittibile, salvo effetti dell'usucapione/prescrizione)",
+      "Entro 5 anni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 2 e 7: L'azione di nullità è imprescrittibile (accertabile in ogni tempo), a differenza dell'annullamento che è soggetto a decadenza."
+  },
+  {
+    "id": 84,
+    "category": "Processo Amministrativo",
+    "question": "Qual è il criterio cardine tradizionale per il riparto di giurisdizione tra Giudice Ordinario (G.O.) e Giudice Amministrativo (G.A.)?",
+    "options": [
+      "Il valore economico della causa",
+      "La natura della posizione soggettiva: diritti soggettivi al G.O., interessi legittimi al G.A.",
+      "La presenza della Pubblica Amministrazione come parte",
+      "La materia trattata (es. edilizia va sempre al G.O.)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 1: Il criterio storico e vigente si fonda sulla distinzione tra diritti soggettivi (G.O.) e interessi legittimi (G.A.)."
+  },
+  {
+    "id": 85,
+    "category": "Processo Amministrativo",
+    "question": "Nella 'giurisdizione esclusiva' (art. 133 c.p.a.), il Giudice Amministrativo conosce:",
+    "options": [
+      "Solo degli interessi legittimi",
+      "Anche dei diritti soggettivi",
+      "Solo delle questioni di merito",
+      "Solo delle sanzioni amministrative"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 1 e 7: Nella giurisdizione esclusiva (es. appalti, servizi pubblici), il G.A. giudica anche sui diritti soggettivi."
+  },
+  {
+    "id": 86,
+    "category": "Processo Amministrativo",
+    "question": "Entro quale termine deve essere proposta, di regola, l'azione di nullità (art. 31 c.p.a.)?",
+    "options": [
+      "60 giorni",
+      "120 giorni",
+      "180 giorni",
+      "1 anno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 3: L'azione di nullità va proposta entro un termine di decadenza di 180 giorni (salvo la rilevabilità d'ufficio)."
+  },
+  {
+    "id": 87,
+    "category": "Processo Amministrativo",
+    "question": "Qual è il termine per proporre l'azione di condanna al risarcimento del danno (art. 30 c.p.a.)?",
+    "options": [
+      "60 giorni",
+      "120 giorni dal fatto lesivo o dalla conoscenza dell'atto",
+      "5 anni (prescrizione ordinaria)",
+      "180 giorni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 3 e 8: L'azione risarcitoria ha un termine di decadenza di 120 giorni, non segue la prescrizione ordinaria quinquennale."
+  },
+  {
+    "id": 88,
+    "category": "Processo Amministrativo",
+    "question": "L'azione avverso il silenzio della P.A. richiede la previa diffida ad adempiere?",
+    "options": [
+      "Sì, è condizione di procedibilità",
+      "No, la riforma ha eliminato la diffida",
+      "Sì, ma solo per i diritti soggettivi",
+      "Dipende dal valore della causa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4: La riforma della L. 241/90 ha eliminato la necessità della diffida; si può ricorrere finché dura l'inerzia."
+  },
+  {
+    "id": 89,
+    "category": "Processo Amministrativo",
+    "question": "Entro quanto tempo può essere proposta l'azione contro il silenzio-inadempimento?",
+    "options": [
+      "Entro 60 giorni dalla formazione del silenzio",
+      "Finché dura l'inerzia e comunque non oltre un anno dalla scadenza del termine per provvedere",
+      "Senza alcun termine",
+      "Entro 180 giorni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4: Il termine massimo per agire contro il silenzio è di un anno dalla scadenza del termine del procedimento."
+  },
+  {
+    "id": 90,
+    "category": "Processo Amministrativo",
+    "question": "Il 'giudizio di ottemperanza' serve a:",
+    "options": [
+      "Annullare un atto illegittimo in primo grado",
+      "Dare attuazione alle decisioni del giudice (esecuzione del giudicato)",
+      "Valutare la responsabilità disciplinare dei dipendenti",
+      "Impugnare i bandi di concorso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 6: È il rimedio tipico per dare esecuzione alle sentenze e reprimere la violazione del giudicato."
+  },
+  {
+    "id": 91,
+    "category": "Processo Amministrativo",
+    "question": "Il Ricorso Straordinario al Presidente della Repubblica è:",
+    "options": [
+      "Cumulabile con il ricorso al TAR",
+      "Alternativo al ricorso giurisdizionale",
+      "Un ricorso gerarchico improprio",
+      "Ammesso solo per vizi di merito"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 10: Vige il principio di alternatività (ne bis in idem): o si va al TAR o dal Presidente della Repubblica, non entrambi."
+  },
+  {
+    "id": 92,
+    "category": "Processo Amministrativo",
+    "question": "Chi può richiedere la 'trasposizione' del ricorso straordinario in sede giurisdizionale (al TAR)?",
+    "options": [
+      "Il ricorrente stesso",
+      "I controinteressati (entro 60 giorni)",
+      "Il Presidente della Repubblica",
+      "Il Consiglio di Stato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 10: I controinteressati possono opporsi al ricorso straordinario e chiedere che il giudizio si sposti al TAR (trasposizione)."
+  },
+  {
+    "id": 93,
+    "category": "Processo Amministrativo",
+    "question": "Nelle controversie riguardanti i concorsi pubblici, la giurisdizione appartiene:",
+    "options": [
+      "Sempre al Giudice Ordinario (Giudice del Lavoro)",
+      "Al Giudice Amministrativo (TAR)",
+      "Alla Corte dei Conti",
+      "All'ANAC"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 12: Per i concorsi pubblici (dalla fase del bando alla graduatoria), la giurisdizione è del G.A., a differenza del rapporto di lavoro privatizzato (G.O.)."
+  },
+  {
+    "id": 94,
+    "category": "Processo Amministrativo",
+    "question": "La giurisdizione estesa al 'merito' del Giudice Amministrativo (art. 134 c.p.a.) è:",
+    "options": [
+      "La regola generale",
+      "Un'ipotesi eccezionale e tipizzata, in cui il giudice può sostituirsi all'amministrazione",
+      "Vietata dalla Costituzione",
+      "Applicabile a tutti gli appalti pubblici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 2 e 7: La giurisdizione di merito è eccezionale; in questi casi il giudice ha poteri decisori pieni e può riformare l'atto."
+  },
+  {
+    "id": 95,
+    "category": "Processo Amministrativo",
+    "question": "Nel giudizio per il risarcimento del danno, il giudice valuta la condotta del ricorrente?",
+    "options": [
+      "No, il risarcimento è automatico se l'atto è illegittimo",
+      "Sì, esclude i danni che si sarebbero potuti evitare usando l'ordinaria diligenza (es. impugnazione tempestiva)",
+      "Sì, ma solo se c'è dolo",
+      "No, rileva solo la condotta della P.A."
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 8: L'art. 30 c.p.a. prevede che il giudice valuti la condotta processuale per escludere i danni evitabili (principio di autoresponsabilità)."
+  },
+  {
+    "id": 96,
+    "category": "Processo Amministrativo",
+    "question": "Quale organo funge da giudice d'appello contro le sentenze dei TAR?",
+    "options": [
+      "La Corte di Cassazione",
+      "La Corte dei Conti",
+      "Il Consiglio di Stato",
+      "Il Consiglio Superiore della Magistratura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 2: Il Consiglio di Stato è il giudice d'appello nel sistema di giustizia amministrativa."
+  },
+  {
+    "id": 97,
+    "category": "Processo Amministrativo",
+    "question": "Il parere del Consiglio di Stato nel Ricorso Straordinario al Presidente della Repubblica è:",
+    "options": [
+      "Facoltativo",
+      "Obbligatorio ma non vincolante",
+      "Vincolante",
+      "Vincolante solo se positivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 10: La L. 69/2009 ha reso il parere del Consiglio di Stato vincolante, rendendo il ricorso sostanzialmente giurisdizionale."
+  },
+  {
+    "id": 98,
+    "category": "Processo Amministrativo",
+    "question": "Per le controversie relative ai rapporti di lavoro alle dipendenze della P.A. (pubblico impiego privatizzato), la giurisdizione è del:",
+    "options": [
+      "Giudice Amministrativo in sede esclusiva",
+      "Giudice Ordinario (Giudice del Lavoro)",
+      "Corte dei Conti",
+      "Tribunale Militare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 12: Il pubblico impiego privatizzato è devoluto al G.O., salve eccezioni specifiche come i concorsi."
+  },
+  {
+    "id": 99,
+    "category": "Processo Amministrativo",
+    "question": "Il Codice del Processo Amministrativo (D.Lgs. 104/2010) esclude espressamente dal sindacato del giudice amministrativo:",
+    "options": [
+      "Gli atti politici dei supremi organi dello Stato",
+      "Gli atti di alta amministrazione",
+      "I provvedimenti sanzionatori delle Autorità Indipendenti",
+      "Gli atti vincolati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paragrafo 1, Cap. 9: Gli atti politici in senso stretto sono sottratti al sindacato giurisdizionale (art. 7 c.p.a.)."
+  },
+  {
+    "id": 100,
+    "category": "Processo Amministrativo",
+    "question": "Nel processo amministrativo, chi sono i 'controinteressati'?",
+    "options": [
+      "Coloro che hanno fatto ricorso",
+      "Soggetti terzi che traggono un vantaggio dall'atto impugnato e sono agevolmente identificabili",
+      "I dipendenti dell'amministrazione resistente",
+      "I cittadini in generale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 2, Cap. 9: I controinteressati sono parti necessarie che ricevono un vantaggio dall'atto e devono essere notificati."
+  },
+  {
+    "id": 101,
+    "category": "Processo Amministrativo",
+    "question": "L'azione avverso il silenzio della P.A. si svolge con:",
+    "options": [
+      "Rito ordinario con udienza pubblica",
+      "Rito speciale in camera di consiglio con termini abbreviati (art. 117 c.p.a.)",
+      "Procedura arbitrale",
+      "Ricorso al Prefetto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 4, Cap. 9: Il rito sul silenzio è un rito speciale, rapido e camerale."
+  },
+  {
+    "id": 102,
+    "category": "Atti e Provvedimenti",
+    "question": "Secondo le tecniche di redazione, cosa deve contenere la 'motivazione' del provvedimento?",
+    "options": [
+      "Solo i riferimenti normativi",
+      "Le ragioni di fatto e di diritto, le valutazioni svolte e l'eventuale ponderazione degli interessi",
+      "La firma del responsabile e basta",
+      "L'elenco degli allegati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 10.2, Cap. 10: La motivazione è il cuore dell'atto, spiega il percorso logico-giuridico e la valutazione degli interessi."
+  },
+  {
+    "id": 103,
+    "category": "Processo Amministrativo",
+    "question": "Il FOIA (Freedom of Information Act - Accesso Civico Generalizzato) consente l'accesso:",
+    "options": [
+      "Solo a chi ha un interesse diretto, concreto e attuale",
+      "A chiunque, indipendentemente dalla titolarità di situazioni giuridiche soggettive",
+      "Solo ai giornalisti",
+      "Solo ai residenti nel comune"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 10 (Appendice), Cap. 9: Il FOIA italiano (D.Lgs. 33/2013) permette l'accesso generalizzato a chiunque (civil access)."
+  },
+  {
+    "id": 104,
+    "category": "Atti e Provvedimenti",
+    "question": "Cosa si intende per 'motivazione per relationem'?",
+    "options": [
+      "Una motivazione orale",
+      "Il richiamo ad altro atto dell'amministrazione già in possesso o disponibile per l'interessato",
+      "Una motivazione segreta",
+      "La mancanza di motivazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Concetto implicito nella tecnica redazionale (Paragrafo 10.2): motivare richiamando pareri o atti istruttori precedenti."
+  },
+  {
+    "id": 105,
+    "category": "Processo Amministrativo",
+    "question": "Nel rito appalti (art. 120 c.p.a.), i termini processuali sono:",
+    "options": [
+      "Raddoppiati",
+      "Dimezzati (accelerati)",
+      "Identici al rito ordinario",
+      "Sospesi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 6, Cap. 9: Il rito appalti è un modello accelerato con termini dimezzati per garantire celerità."
+  },
+  {
+    "id": 106,
+    "category": "Atti e Provvedimenti",
+    "question": "La mancata indicazione dell'autorità a cui ricorrere nel provvedimento finale comporta:",
+    "options": [
+      "La nullità dell'atto",
+      "L'annullabilità dell'atto",
+      "Una semplice irregolarità, ma impedisce la decorrenza del termine breve per impugnare (errore scusabile)",
+      "L'inesistenza dell'atto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 10.2 (punto 4), Cap. 10: È un'irregolarità che però può giustificare la rimessione in termini per l'impugnazione."
+  },
+  {
+    "id": 107,
+    "category": "Atti e Provvedimenti",
+    "question": "Il 'preavviso di rigetto' (art. 10-bis L. 241/90) si colloca:",
+    "options": [
+      "Dopo il provvedimento finale",
+      "Prima dell'avvio del procedimento",
+      "Tra la fase istruttoria e la decisione finale",
+      "Durante il ricorso al TAR"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paragrafo 10.3, Cap. 10: Il preavviso è una fase endoprocedimentale situata tra istruttoria e decisione."
+  },
+  {
+    "id": 108,
+    "category": "Processo Amministrativo",
+    "question": "L'azione di risarcimento per danno da ritardo (art. 2-bis L. 241/90) può essere proposta:",
+    "options": [
+      "Solo se c'è stato annullamento dell'atto",
+      "Anche autonomamente, coordinata con l'azione avverso il silenzio",
+      "Solo entro 30 giorni",
+      "Mai, il ritardo non è risarcibile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 3.2, Cap. 9: Il danno da ritardo è risarcibile e l'azione è coordinata con quella sul silenzio."
+  },
+  {
+    "id": 109,
+    "category": "Atti e Provvedimenti",
+    "question": "La clausola di 'immediata efficacia' in un provvedimento limitativo serve a:",
+    "options": [
+      "Rendere l'atto retroattivo",
+      "Far produrre effetti all'atto prima della comunicazione al destinatario (se motivata e urgente)",
+      "Evitare il ricorso al TAR",
+      "Sanare vizi di legittimità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 10.2 (punto 5) e 10.4, Cap. 10: L'efficacia immediata deroga alla regola della recettizietà (art. 21-bis) per motivi di urgenza."
+  },
+  {
+    "id": 110,
+    "category": "Atti e Provvedimenti",
+    "question": "Quale tra i seguenti è un sintomo tipico dell'eccesso di potere rilevabile dalla motivazione?",
+    "options": [
+      "La brevità del testo",
+      "La contraddittorietà intrinseca o il travisamento dei fatti",
+      "L'uso di termini latini",
+      "Il riferimento a leggi abrogate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paragrafo 10.5, Cap. 10: La motivazione contraddittoria o illogica è la spia classica dell'eccesso di potere."
   }
 ]
