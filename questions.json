@@ -1428,5 +1428,525 @@
     ],
     "correctIndex": 1,
     "explanation": "Paragrafo 10.5, Cap. 10: La motivazione contraddittoria o illogica è la spia classica dell'eccesso di potere."
+  },
+  {
+    "id": 111,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è il riferimento normativo del nuovo Codice dei Contratti Pubblici analizzato nel testo?",
+    "options": [
+      "D.Lgs. 50/2016",
+      "D.Lgs. 36/2023",
+      "Legge 241/1990",
+      "D.Lgs. 165/2001"
+    ],
+    "correctIndex": 1,
+    "explanation": "Introduzione: Il testo fa riferimento esplicito al D.Lgs. 36/2023 come nuovo impianto normativo in sostituzione del precedente."
+  },
+  {
+    "id": 112,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è il principio guida su cui punta il nuovo Codice per sostituire la burocrazia difensiva?",
+    "options": [
+      "Il principio di precauzione",
+      "Il principio della fiducia nell'Amministrazione e negli operatori economici",
+      "Il principio del sospetto",
+      "Il principio della massima spesa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Introduzione e Cap 1: Il Codice punta sulla 'fiducia' per alleggerire i passaggi e responsabilizzare i decisori."
+  },
+  {
+    "id": 113,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "In quale procedura 'chiunque, senza limitazioni, può presentare un'offerta'?",
+    "options": [
+      "Procedura ristretta",
+      "Procedura competitiva con negoziazione",
+      "Procedura aperta",
+      "Dialogo competitivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capitolo 1: La definizione di procedura aperta (art. 70) è quella in cui qualsiasi operatore interessato può presentare offerta."
+  },
+  {
+    "id": 114,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'Partenariato per l'innovazione' è una procedura utilizzata quando:",
+    "options": [
+      "Si devono acquistare beni standardizzati",
+      "Si devono sviluppare prodotti, servizi o lavori che non esistono ancora sul mercato",
+      "L'importo è inferiore a 40.000 euro",
+      "C'è estrema urgenza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 1: È lo strumento specifico per la ricerca e sviluppo di soluzioni innovative non reperibili sul mercato."
+  },
+  {
+    "id": 115,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è il termine massimo per la conclusione della procedura aperta con criterio OEPV (Offerta Economicamente Più Vantaggiosa)?",
+    "options": [
+      "5 mesi",
+      "9 mesi dalla pubblicazione del bando",
+      "60 giorni",
+      "1 anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 2: Il testo specifica che con l'OEPV la procedura deve concludersi entro nove mesi (cinque mesi per il minor prezzo)."
+  },
+  {
+    "id": 116,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Per quali servizi è OBBLIGATORIO l'uso del criterio dell'Offerta Economicamente Più Vantaggiosa (OEPV)?",
+    "options": [
+      "Per le forniture di cancelleria standard",
+      "Per i servizi ad alta intensità di manodopera (costo lavoro > 50%)",
+      "Per i lavori sotto i 150.000 euro",
+      "Per l'acquisto di carburante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 3: L'OEPV è obbligatoria per servizi sociali, alta intensità di manodopera, e servizi di ingegneria >140.000 euro."
+  },
+  {
+    "id": 117,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è la soglia di valore sopra la quale i servizi di ingegneria e architettura richiedono obbligatoriamente l'OEPV nel nuovo Codice?",
+    "options": [
+      "40.000 euro",
+      "140.000 euro",
+      "215.000 euro",
+      "1 milione di euro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 3: Il nuovo Codice ha innalzato la soglia da 40.000 a 140.000 euro per questi servizi specifici."
+  },
+  {
+    "id": 118,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il criterio del 'minor prezzo' può essere utilizzato:",
+    "options": [
+      "Sempre, a discrezione della stazione appaltante",
+      "Per servizi e forniture con caratteristiche standardizzate",
+      "Per i servizi di ristorazione ospedaliera",
+      "Per i servizi di ingegneria complessa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 4: L'art. 108 c.3 limita il minor prezzo a servizi/forniture standardizzate o beni fungibili."
+  },
+  {
+    "id": 119,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cosa si intende per 'offerta anomala'?",
+    "options": [
+      "Un'offerta presentata in ritardo",
+      "Un'offerta con un prezzo talmente basso da far dubitare della capacità di eseguire correttamente il contratto",
+      "Un'offerta che supera l'importo a base di gara",
+      "Un'offerta incompleta nella documentazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 4: L'anomalia riguarda la sostenibilità economica dell'offerta eccessivamente bassa."
+  },
+  {
+    "id": 120,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Quali sono le tre condizioni necessarie per configurare il 'grave illecito professionale' come causa di esclusione?",
+    "options": [
+      "Sospetto, Voce di corridoio, Denuncia anonima",
+      "Elementi dimostrativi, incidenza sull'affidabilità, prove concrete e adeguate",
+      "Condanna definitiva, Confessione, Video",
+      "Multa, Sanzione disciplinare, Ritardo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 5: Il testo elenca: elementi sufficienti, incidenza sull'affidabilità e prove concrete/adeguate."
+  },
+  {
+    "id": 121,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Secondo il Correttivo 2024, quale arco temporale possono coprire i requisiti relativi ai servizi analoghi eseguiti in passato?",
+    "options": [
+      "Ultimo triennio",
+      "Ultimi 5 anni",
+      "Ultimi 10 anni",
+      "Senza limiti di tempo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capitolo 5: Importante novità per favorire la partecipazione: si passa da 3 a 10 anni."
+  },
+  {
+    "id": 122,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Se il sistema FVOE (Fascicolo Virtuale) non funziona durante la verifica dei requisiti per l'aggiudicazione, cosa succede?",
+    "options": [
+      "La gara viene annullata",
+      "Si attende indefinitamente il ripristino",
+      "Si procede all'aggiudicazione, ma l'efficacia decorre dopo 30 giorni previa autodichiarazione dell'operatore",
+      "Si aggiudica al secondo classificato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capitolo 6: Il correttivo 2024 ha introdotto questo meccanismo di sblocco basato sull'autodichiarazione e il termine di 30 giorni."
+  },
+  {
+    "id": 123,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cos'è il periodo di 'stand-still'?",
+    "options": [
+      "Il periodo di ferie della P.A.",
+      "L'intervallo tra aggiudicazione e stipula del contratto per permettere eventuali ricorsi",
+      "Il tempo massimo per presentare le offerte",
+      "La sospensione dei lavori per maltempo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 6: È una garanzia di trasparenza che congela la stipula per consentire ai concorrenti di fare ricorso."
+  },
+  {
+    "id": 124,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il contratto pubblico deve essere stipulato obbligatoriamente in quale forma?",
+    "options": [
+      "Forma orale",
+      "Forma scritta (anche elettronica), pena la nullità",
+      "Per stretta di mano",
+      "Qualsiasi forma purché provabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 6: La forma scritta (oggi digitale) è obbligatoria a pena di nullità."
+  },
+  {
+    "id": 125,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è la funzione degli Uffici Centrali del Bilancio (UCB) nei controlli a valle?",
+    "options": [
+      "Scegliere il contraente",
+      "Verificare la regolarità amministrativa e contabile e la sostenibilità delle spese",
+      "Gestire il cantiere",
+      "Pubblicare i bandi di gara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 7: Gli UCB (ex Ragionerie) verificano la regolarità della gestione dei fondi e la copertura."
+  },
+  {
+    "id": 126,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cosa comporta la registrazione contabile delle somme ai sensi dell'art. 6 D.Lgs. 123/2011?",
+    "options": [
+      "Che le somme possono essere spese liberamente per altro",
+      "Che le somme diventano indisponibili per altri usi ('blindatura')",
+      "Che le somme vengono restituite all'Europa",
+      "Nulla di rilevante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 7: La registrazione rende le somme indisponibili, vincolandole alla spesa specifica."
+  },
+  {
+    "id": 127,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è la soglia di valore per l'affidamento diretto dei LAVORI secondo il D.Lgs. 36/2023?",
+    "options": [
+      "40.000 euro",
+      "140.000 euro",
+      "150.000 euro",
+      "1 milione di euro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capitolo 8: Per i lavori la soglia è 150.000 euro; per servizi e forniture è 140.000 euro."
+  },
+  {
+    "id": 128,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Nella procedura negoziata senza bando per lavori tra 150.000 e 1 milione di euro, quanti operatori bisogna consultare?",
+    "options": [
+      "Almeno 3",
+      "Almeno 5",
+      "Almeno 10",
+      "Nessuno, è affidamento diretto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 8: La norma richiede la consultazione di almeno 5 operatori per questa fascia di importo."
+  },
+  {
+    "id": 129,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è il primo passaggio formale della fase preliminare nell'affidamento diretto?",
+    "options": [
+      "La stipula del contratto",
+      "La nomina del RUP (Responsabile Unico del Procedimento)",
+      "La richiesta di preventivi",
+      "Il collaudo dell'opera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 9: La fase preliminare inizia con la nomina del RUP, figura cardine della procedura."
+  },
+  {
+    "id": 130,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "È obbligatorio utilizzare il MePA (Mercato Elettronico) per gli affidamenti diretti?",
+    "options": [
+      "No, è sempre facoltativo",
+      "Sì, è obbligatorio in via prioritaria (art. 1 comma 450 L. 296/2006)",
+      "Solo per importi superiori a 1 milione",
+      "Solo per i lavori edili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 9: L'affidamento 'fuori piattaforma' è un'eccezione; la regola è l'uso di MePA o piattaforme regionali."
+  },
+  {
+    "id": 131,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "In cosa consiste il 'principio di rotazione' (art. 49)?",
+    "options": [
+      "Le imprese devono ruotare i propri dipendenti",
+      "Il divieto di affidare consecutivamente un appalto allo stesso operatore uscente per commesse simili",
+      "L'obbligo di cambiare RUP ogni anno",
+      "La rotazione dei dirigenti pubblici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 10: Serve a evitare rendite di posizione e favorire la distribuzione delle commesse."
+  },
+  {
+    "id": 132,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Per gli affidamenti di importo inferiore a 5.000 euro, il principio di rotazione:",
+    "options": [
+      "Si applica rigidamente",
+      "Non si applica (deroga per microaffidamenti)",
+      "Si applica solo ai lavori",
+      "Richiede autorizzazione dell'ANAC"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 10: Il legislatore consente la deroga per importi molto ridotti (< 5.000 euro)."
+  },
+  {
+    "id": 133,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è la funzione del DGUE (Documento di Gara Unico Europeo)?",
+    "options": [
+      "È il contratto finale",
+      "È un modello standardizzato per l'autocertificazione dei requisiti da parte degli operatori",
+      "È il documento che contiene il progetto tecnico",
+      "È la ricevuta del pagamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11: Il DGUE semplifica la partecipazione permettendo di autocertificare i requisiti in modo standard."
+  },
+  {
+    "id": 134,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "A cosa serve il CIG (Codice Identificativo Gara)?",
+    "options": [
+      "A identificare il RUP",
+      "A garantire la tracciabilità dei flussi finanziari collegati all'appalto",
+      "A certificare la qualità dell'opera",
+      "A pagare le tasse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11: Il CIG è univoco per ogni gara e indispensabile per la tracciabilità dei pagamenti."
+  },
+  {
+    "id": 135,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Secondo le Best Practice ANAC, chiedere più preventivi in un affidamento diretto trasforma la procedura in una gara?",
+    "options": [
+      "Sì, e quindi si applicano tutte le regole della procedura aperta",
+      "No, il confronto di preventivi è uno strumento informale per orientare la scelta",
+      "Sì, è vietato chiedere preventivi",
+      "Dipende dall'importo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 12: Le best practice chiariscono che il confronto informale non è una procedura concorsuale formale."
+  },
+  {
+    "id": 136,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Per gli affidamenti sotto i 40.000 euro, come possono essere attestati i requisiti?",
+    "options": [
+      "Solo con il DGUE",
+      "Con una semplice dichiarazione sostitutiva di atto di notorietà (più snella del DGUE)",
+      "Non servono requisiti",
+      "Solo con certificati originali in bollo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 12: È una semplificazione ulteriore per i piccoli importi."
+  },
+  {
+    "id": 137,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "È possibile stipulare un 'Accordo Quadro' tramite affidamento diretto?",
+    "options": [
+      "No, è sempre vietato",
+      "Sì, il nuovo Codice non lo vieta, purché nel rispetto delle soglie economiche",
+      "Solo per importi sopra la soglia europea",
+      "Solo per i lavori pubblici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 12: Le best practice confermano che l'accordo quadro è compatibile con l'affidamento diretto se sotto soglia."
+  },
+  {
+    "id": 138,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il Responsabile Unico del Procedimento (RUP) nel nuovo Codice:",
+    "options": [
+      "Ha un ruolo marginale",
+      "Può partecipare alla commissione giudicatrice, anche come presidente (art. 51)",
+      "Non può mai valutare le offerte",
+      "Si occupa solo della fase di esecuzione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 3 e 13: Il nuovo codice rafforza la centralità del RUP, consentendogli anche di presiedere la commissione (prima era limitato)."
+  },
+  {
+    "id": 139,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è l'obiettivo finale della digitalizzazione (e-procurement) nel Codice?",
+    "options": [
+      "Complicare la vita alle imprese",
+      "Ridurre tempi e costi, garantendo trasparenza e tracciabilità",
+      "Eliminare il ruolo del RUP",
+      "Favorire solo le grandi multinazionali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11 e 13: La digitalizzazione è un pilastro per efficienza e trasparenza."
+  },
+  {
+    "id": 140,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il principio del risultato nel nuovo Codice sposta l'attenzione:",
+    "options": [
+      "Sul rispetto formale delle procedure a discapito dell'obiettivo",
+      "Sulla capacità di raggiungere l'obiettivo (opera/servizio) con qualità e tempestività",
+      "Sulla necessità di non spendere nulla",
+      "Sull'aumento dei contenziosi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 13 (Implicitamente): Il 'senso complessivo' parla di amministrazione orientata ai risultati e non difensiva."
+  },
+  {
+    "id": 141,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "In caso di affidamento diretto, la garanzia definitiva è:",
+    "options": [
+      "Sempre obbligatoria",
+      "Facoltativa, a discrezione della stazione appaltante",
+      "Vietata",
+      "Obbligatoria solo per i lavori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 12: Il Codice lascia libertà di scelta alla stazione appaltante per non aggravare la procedura."
+  },
+  {
+    "id": 142,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Se un operatore economico ha fornito una prestazione eccellente, il principio di rotazione:",
+    "options": [
+      "Impedisce comunque il riaffidamento",
+      "Può essere derogato con motivazione specifica e documentata",
+      "Non si applica mai ai servizi",
+      "Richiede il pagamento di una penale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 10: Il correttivo 2024 ammette la deroga motivata (es. assenza di alternative o eccellenza prestazione)."
+  },
+  {
+    "id": 143,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Chi certifica le piattaforme di e-procurement?",
+    "options": [
+      "Il Ministero dell'Interno",
+      "L'AgID (Agenzia per l'Italia Digitale)",
+      "L'ANAC",
+      "La Corte dei Conti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11: L'AgID ha il compito di certificare che le piattaforme rispettino gli standard di sicurezza."
+  },
+  {
+    "id": 144,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cosa si intende per 'affidamento diretto puro'?",
+    "options": [
+      "Affidamento senza consultazione di più operatori (sotto soglia)",
+      "Affidamento tramite sorteggio",
+      "Affidamento senza contratto",
+      "Affidamento verbale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capitolo 8: L'affidamento diretto consente di scegliere un operatore senza consultazione competitiva formale."
+  },
+  {
+    "id": 145,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è la differenza tra i requisiti di ordine generale e quelli di ordine speciale?",
+    "options": [
+      "I generali riguardano la moralità/legalità, gli speciali la capacità tecnica/economica",
+      "I generali sono per i lavori, gli speciali per i servizi",
+      "Non c'è differenza",
+      "I generali valgono solo in Italia, gli speciali in Europa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capitolo 5: Distinzione fondamentale tra affidabilità morale (generali) e capacità operativa (speciali)."
+  },
+  {
+    "id": 146,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "I controlli preventivi di cui al D.Lgs. 123/2011 riguardano obbligatoriamente:",
+    "options": [
+      "Solo gli acquisti di cancelleria",
+      "I contratti, gli atti di affidamento diretto e le assunzioni di personale",
+      "Solo le spese di rappresentanza",
+      "Le ferie dei dipendenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 7: Elenco degli atti sottoposti a controllo preventivo di legittimità contabile."
+  },
+  {
+    "id": 147,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "In caso di 'Dialogo Competitivo', l'amministrazione:",
+    "options": [
+      "Sa già esattamente cosa vuole comprare",
+      "Dialoga con gli operatori per individuare le soluzioni innovative più adatte alle sue esigenze",
+      "Affida direttamente l'appalto",
+      "Fa un sorteggio pubblico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 1: Procedura usata quando la stazione appaltante ha esigenze complesse e non conosce la soluzione tecnica migliore."
+  },
+  {
+    "id": 148,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La 'Procedura Competitiva con Negoziazione' prevede:",
+    "options": [
+      "Solo una fase di gara",
+      "Una gara pubblica iniziale seguita da una fase di trattativa (negoziazione) con gli operatori",
+      "Solo trattativa privata senza bando",
+      "Un affidamento diretto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 1: È una procedura ibrida che combina gara e negoziazione."
+  },
+  {
+    "id": 149,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Se un Comune deve affidare lavori per 200.000 euro (sopra soglia affidamento diretto, sotto soglia UE), quale procedura deve usare?",
+    "options": [
+      "Affidamento diretto",
+      "Procedura negoziata senza bando previa consultazione di almeno 5 operatori",
+      "Procedura aperta europea",
+      "Sorteggio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 8: Sopra i 150k (soglia affidamento diretto lavori) e sotto 1M, serve la negoziata con 5 inviti."
+  },
+  {
+    "id": 150,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il nuovo Codice degli Appalti è stato pensato per essere aderente alle esigenze di quale piano?",
+    "options": [
+      "Piano Marshall",
+      "PNRR (Piano Nazionale di Ripresa e Resilienza)",
+      "Piano Regolatore",
+      "Piano di Emergenza Comunale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Introduzione: Il PNRR è il driver principale della riforma per garantire velocità di spesa e realizzazione."
   }
 ]
