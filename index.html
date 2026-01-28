@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Quiz Concorso RIPAM 2025</title>
+    <style>
+        :root { --primary: #0056b3; --success: #28a745; --error: #dc3545; --bg: #f4f6f9; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); margin: 0; padding: 20px; color: #333; }
+        .container { max-width: 600px; margin: 0 auto; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        h1 { font-size: 1.2rem; text-align: center; color: var(--primary); margin-bottom: 20px; }
+        
+        /* Filtri */
+        #setup-screen { display: block; }
+        #quiz-screen, #result-screen { display: none; }
+        .category-btn { display: block; width: 100%; padding: 15px; margin-bottom: 10px; border: 1px solid #ddd; background: white; border-radius: 8px; font-size: 1rem; text-align: left; cursor: pointer; }
+        .category-btn.selected { background: var(--primary); color: white; border-color: var(--primary); }
+        
+        /* Quiz UI */
+        .progress { height: 6px; background: #e9ecef; border-radius: 3px; margin-bottom: 20px; overflow: hidden; }
+        .progress-bar { height: 100%; background: var(--primary); width: 0%; transition: width 0.3s; }
+        .question-text { font-size: 1.1rem; font-weight: 600; margin-bottom: 20px; line-height: 1.4; }
+        .option-btn { width: 100%; padding: 15px; margin-bottom: 10px; border: 2px solid #e9ecef; background: white; border-radius: 10px; font-size: 1rem; text-align: left; cursor: pointer; transition: all 0.2s; -webkit-tap-highlight-color: transparent; }
+        
+        /* Stati Risposta */
+        .correct { background-color: #d4edda; border-color: var(--success); color: #155724; }
+        .wrong { background-color: #f8d7da; border-color: var(--error); color: #721c24; }
+        .disabled { pointer-events: none; opacity: 0.7; }
+        
+        .explanation { background: #e2e6ea; padding: 10px; border-radius: 8px; margin-top: 10px; font-size: 0.9rem; display: none; }
+        
+        .btn-action { width: 100%; padding: 15px; background: var(--primary); color: white; border: none; border-radius: 10px; font-size: 1.1rem; font-weight: bold; cursor: pointer; margin-top: 20px; }
+        .stat-box { text-align: center; padding: 20px; font-size: 1.2rem; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div id="setup-screen">
+        <h1>🎓 Simulatore RIPAM 2025</h1>
+        <p>Scegli la materia:</p>
+        <div id="category-list"></div>
+        <button class="btn-action" onclick="startQuiz()">Inizia Quiz</button>
+    </div>
+
+    <div id="quiz-screen">
+        <div class="progress"><div class="progress-bar" id="progress-bar"></div></div>
+        <div class="question-text" id="question-text">Caricamento...</div>
+        <div id="options-container"></div>
+        <div class="explanation" id="explanation"></div>
+        <button class="btn-action" id="next-btn" style="display:none" onclick="nextQuestion()">Prossima Domanda</button>
+    </div>
+
+    <div id="result-screen">
+        <h1>Quiz Completato!</h1>
+        <div class="stat-box">
+            <p>Punteggio: <strong id="final-score"></strong></p>
+            <div id="feedback-msg"></div>
+        </div>
+        <button class="btn-action" onclick="location.reload()">Ricomincia</button>
+    </div>
+</div>
+
+<script>
+    let allQuestions = [];
+    let currentQuestions = [];
+    let currentQuestionIndex = 0;
+    let score = 0;
+    let selectedCategories = [];
+
+    // 1. Caricamento Dati
+    fetch('questions.json')
+        .then(response => response.json())
+        .then(data => {
+            allQuestions = data;
+            initCategories();
+        })
+        .catch(err => console.error("Errore caricamento JSON:", err));
+
+    function initCategories() {
+        const categories = [...new Set(allQuestions.map(q => q.category))];
+        const container = document.getElementById('category-list');
+        
+        // Aggiungi opzione "Tutte"
+        const allBtn = document.createElement('button');
+        allBtn.className = 'category-btn selected';
+        allBtn.innerText = 'Tutte le materie';
+        allBtn.onclick = () => toggleCategory('Tutte', allBtn);
+        container.appendChild(allBtn);
+
+        categories.forEach(cat => {
+            const btn = document.createElement('button');
+            btn.className = 'category-btn';
+            btn.innerText = cat;
+            btn.onclick = () => toggleCategory(cat, btn);
+            container.appendChild(btn);
+        });
+    }
+
+    function toggleCategory(cat, btn) {
+        // Logica semplificata: se clicchi una categoria, deseleziona "Tutte"
+        document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('selected'));
+        btn.classList.add('selected');
+        selectedCategories = cat === 'Tutte' ? [] : [cat];
+    }
+
+    // 2. Logica Quiz
+    function startQuiz() {
+        if (selectedCategories.length === 0) {
+            currentQuestions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, 20); // Max 20 domande random
+        } else {
+            currentQuestions = allQuestions
+                .filter(q => selectedCategories.includes(q.category))
+                .sort(() => 0.5 - Math.random());
+        }
+
+        if(currentQuestions.length === 0) return alert("Nessuna domanda trovata!");
+
+        document.getElementById('setup-screen').style.display = 'none';
+        document.getElementById('quiz-screen').style.display = 'block';
+        showQuestion();
+    }
+
+    function showQuestion() {
+        const q = currentQuestions[currentQuestionIndex];
+        document.getElementById('question-text').innerText = q.question;
+        document.getElementById('explanation').style.display = 'none';
+        document.getElementById('next-btn').style.display = 'none';
+        
+        // Aggiorna progress bar
+        const progress = ((currentQuestionIndex) / currentQuestions.length) * 100;
+        document.getElementById('progress-bar').style.width = `${progress}%`;
+
+        const optionsDiv = document.getElementById('options-container');
+        optionsDiv.innerHTML = '';
+
+        q.options.forEach((opt, index) => {
+            const btn = document.createElement('div');
+            btn.className = 'option-btn';
+            btn.innerText = opt;
+            btn.onclick = () => checkAnswer(index, q.correctIndex, btn);
+            optionsDiv.appendChild(btn);
+        });
+    }
+
+    function checkAnswer(selectedIndex, correctIndex, btnElement) {
+        const options = document.querySelectorAll('.option-btn');
+        options.forEach(opt => opt.classList.add('disabled')); // Blocca click multipli
+
+        if (selectedIndex === correctIndex) {
+            btnElement.classList.add('correct');
+            score++;
+        } else {
+            btnElement.classList.add('wrong');
+            options[correctIndex].classList.add('correct'); // Mostra quella giusta
+        }
+
+        // Mostra spiegazione se presente
+        const explanation = document.getElementById('explanation');
+        if(currentQuestions[currentQuestionIndex].explanation) {
+            explanation.innerText = "💡 " + currentQuestions[currentQuestionIndex].explanation;
+            explanation.style.display = 'block';
+        }
+
+        document.getElementById('next-btn').style.display = 'block';
+    }
+
+    function nextQuestion() {
+        currentQuestionIndex++;
+        if (currentQuestionIndex < currentQuestions.length) {
+            showQuestion();
+        } else {
+            showResults();
+        }
+    }
+
+    function showResults() {
+        document.getElementById('quiz-screen').style.display = 'none';
+        document.getElementById('result-screen').style.display = 'block';
+        document.getElementById('final-score').innerText = `${score} su ${currentQuestions.length}`;
+        
+        const perc = (score / currentQuestions.length) * 100;
+        const msg = document.getElementById('feedback-msg');
+        if(perc >= 70) msg.innerText = "Ottimo lavoro! Pronto per il concorso.";
+        else if(perc >= 50) msg.innerText = "Non male, ma ripassa ancora.";
+        else msg.innerText = "Devi studiare di più!";
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "category": "Diritto Amministrativo",
+    "question": "Secondo la L. 241/90, il termine generale per la conclusione del procedimento amministrativo, se non diversamente stabilito, è di:",
+    "options": ["30 giorni", "60 giorni", "90 giorni", "45 giorni"],
+    "correctIndex": 0,
+    "explanation": "L'art. 2 comma 2 della L. 241/90 stabilisce in 30 giorni il termine generale."
+  },
+  {
+    "id": 2,
+    "category": "Informatica e CAD",
+    "question": "Nel Codice dell'Amministrazione Digitale, cosa si intende per 'domicilio digitale'?",
+    "options": [
+      "La sede legale dell'ente",
+      "Un indirizzo elettronico eletto presso un servizio di recapito certificato (es. PEC)",
+      "Il sito web istituzionale",
+      "L'indirizzo IP del server"
+    ],
+    "correctIndex": 1,
+    "explanation": "Riferimento Art. 1-ter del CAD."
+  },
+  {
+    "id": 3,
+    "category": "Logica",
+    "question": "Se 'tutti gli assistenti sono precisi' e 'alcuni precisi sono simpatici', allora sicuramente:",
+    "options": [
+      "Tutti gli assistenti sono simpatici",
+      "Alcuni assistenti potrebbero essere simpatici",
+      "Nessun assistente è simpatico",
+      "Tutti i simpatici sono assistenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sillogismo logico: l'intersezione tra insiemi non garantisce la totalità."
+  }
+]
