@@ -1948,5 +1948,655 @@
     ],
     "correctIndex": 1,
     "explanation": "Introduzione: Il PNRR è il driver principale della riforma per garantire velocità di spesa e realizzazione."
+  },
+  {
+    "id": 151,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'Principio del Risultato' (Art. 1 del nuovo Codice) intende il risultato come:",
+    "options": [
+      "Il mero rispetto formale delle procedure",
+      "L'affidamento del contratto e la sua esecuzione con la massima tempestività e il migliore rapporto qualità/prezzo",
+      "Il risparmio di spesa a ogni costo",
+      "L'esclusione del maggior numero di concorrenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Introduzione/Cap 13: Il principio del risultato è il criterio prioritario che guida l'azione amministrativa verso l'obiettivo sostanziale."
+  },
+  {
+    "id": 152,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'Principio della Fiducia' (Art. 2) valorizza:",
+    "options": [
+      "L'autonomia e la responsabilità dei funzionari pubblici, favorendo e valorizzando l'iniziativa e l'autonomia decisionale",
+      "La necessità di controlli preventivi su ogni atto",
+      "La sospensione delle procedure in caso di dubbio",
+      "L'obbligo di chiedere pareri all'ANAC per ogni decisione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Introduzione/Cap 1: La fiducia nell'azione legittima, trasparente e corretta dell'amministrazione è un pilastro del nuovo Codice."
+  },
+  {
+    "id": 153,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Nella procedura aperta, il bando di gara deve contenere:",
+    "options": [
+      "Solo l'importo dei lavori",
+      "I criteri di aggiudicazione, i requisiti di partecipazione e le modalità di presentazione delle offerte",
+      "Il nome dell'azienda che vincerà",
+      "Il contratto già firmato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 2: Il bando è la 'lex specialis' della gara e deve definire tutte le regole del gioco in anticipo."
+  },
+  {
+    "id": 154,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "L'articolo 51 del nuovo Codice introduce una novità sulla Commissione Giudicatrice. Quale?",
+    "options": [
+      "La commissione deve essere composta solo da giudici",
+      "Il RUP può far parte della commissione giudicatrice, anche in qualità di presidente",
+      "La commissione è abolita per sempre",
+      "I commissari devono essere sorteggiati tra i cittadini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 3: È una novità rilevante per snellire le procedure e valorizzare la competenza del RUP."
+  },
+  {
+    "id": 155,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Nel criterio dell'OEPV, la stazione appaltante può valutare i costi lungo il 'ciclo di vita' del prodotto?",
+    "options": [
+      "No, deve guardare solo al prezzo di acquisto",
+      "Sì, è uno degli elementi fondamentali per valutare la convenienza reale nel tempo (manutenzione, consumi, smaltimento)",
+      "Solo per i veicoli militari",
+      "Sì, ma solo se autorizzata dal Ministero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 3: Il Life-Cycle Costing (LCC) permette di premiare prodotti che costano di più subito ma fanno risparmiare nel lungo periodo."
+  },
+  {
+    "id": 156,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "È possibile utilizzare il criterio del minor prezzo per i servizi ad alta intensità di manodopera?",
+    "options": [
+      "Sì, sempre",
+      "No, è escluso dal Codice per tutelare i lavoratori",
+      "Sì, se l'importo è basso",
+      "Solo se c'è urgenza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 4: Se il costo della manodopera supera il 50%, il minor prezzo è vietato per evitare ribassi sui salari."
+  },
+  {
+    "id": 157,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Quando un'offerta è considerata 'anomala', la stazione appaltante deve:",
+    "options": [
+      "Escluderla automaticamente",
+      "Chiedere giustificazioni all'operatore economico per verificarne la sostenibilità",
+      "Accettarla immediatamente perché è conveniente",
+      "Segnalarla alla Polizia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 4: Il contraddittorio è obbligatorio; l'esclusione automatica è ammessa solo in casi specifici e sotto soglia se previsto."
+  },
+  {
+    "id": 158,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Le cause di esclusione 'non automatica' (es. gravi illeciti professionali) richiedono:",
+    "options": [
+      "Una sentenza passata in giudicato",
+      "Una valutazione discrezionale e motivata della stazione appaltante sull'affidabilità dell'operatore",
+      "Un sorteggio",
+      "L'accordo con l'impresa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 5: A differenza di quelle automatiche (es. condanne definitive), qui la PA deve valutare se il fatto mina la fiducia."
+  },
+  {
+    "id": 159,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cosa si intende per 'Soccorso Istruttorio'?",
+    "options": [
+      "L'invio di un'ambulanza in cantiere",
+      "La possibilità di sanare carenze formali della documentazione amministrativa (non dell'offerta tecnica/economica)",
+      "Un prestito in denaro all'impresa",
+      "L'aiuto fornito dal RUP per scrivere l'offerta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Concetto trasversale (impliciato nei Requisiti Cap 5): serve a non escludere imprese per errori formali sanabili."
+  },
+  {
+    "id": 160,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La proposta di aggiudicazione formulata dalla commissione:",
+    "options": [
+      "Vincola la stazione appaltante alla stipula immediata",
+      "È soggetta ad approvazione da parte dell'organo competente, che può anche decidere di non aggiudicare",
+      "È l'atto finale del procedimento",
+      "Deve essere pubblicata sulla Gazzetta Ufficiale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 6: La proposta non è ancora il provvedimento finale; l'amministrazione mantiene il potere di controllo."
+  },
+  {
+    "id": 161,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Se l'aggiudicatario non stipula il contratto nei termini previsti per fatto a lui imputabile:",
+    "options": [
+      "Non succede nulla",
+      "L'amministrazione può revocare l'aggiudicazione e scorrere la graduatoria",
+      "L'amministrazione deve rifare la gara daccapo",
+      "L'amministrazione è obbligata ad aspettarlo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 6: La mancata stipula colpevole porta alla revoca e all'interpello del secondo classificato."
+  },
+  {
+    "id": 162,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il controllo preventivo di legittimità sugli atti di spesa (es. contratti) impedisce:",
+    "options": [
+      "Che l'atto produca effetti prima del visto",
+      "Che si possano fare controlli successivi",
+      "Che l'impresa inizi i lavori",
+      "La nomina del RUP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capitolo 7: Il controllo preventivo è condizione di efficacia del provvedimento di spesa."
+  },
+  {
+    "id": 163,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Per gli affidamenti diretti di lavori sotto i 150.000 euro, la consultazione di più operatori è:",
+    "options": [
+      "Vietata",
+      "Obbligatoria per legge",
+      "Non obbligatoria (è possibile l'affidamento diretto puro), anche se l'indagine di mercato è consigliata",
+      "Obbligatoria solo se c'è un bando"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capitolo 8: Sotto soglia, l'affidamento può essere diretto anche senza consultazione formale di più preventivi (pur restando best practice)."
+  },
+  {
+    "id": 164,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Qual è la differenza tra 'affidamento diretto' e 'procedura negoziata senza bando'?",
+    "options": [
+      "Nessuna",
+      "L'affidamento diretto è una decisione unilaterale (semplificata), la negoziata prevede una competizione tra un numero minimo di invitati",
+      "La negoziata si usa per importi più bassi dell'affidamento diretto",
+      "L'affidamento diretto richiede sempre una commissione giudicatrice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 8: La differenza sostanziale è la presenza di una competizione strutturata nella negoziata (inviti, confronto)."
+  },
+  {
+    "id": 165,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cosa deve contenere la 'Determina di affidamento' (o determina a contrarre semplificata)?",
+    "options": [
+      "Solo la firma del dirigente",
+      "L'oggetto, l'importo, il fornitore, le ragioni della scelta e il possesso dei requisiti",
+      "Tutto il progetto esecutivo",
+      "Le generalità di tutti i dipendenti comunali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 9: È l'atto fondamentale che motiva la scelta dell'affidatario diretto."
+  },
+  {
+    "id": 166,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il principio di rotazione si applica agli affidamenti consecutivi che riguardano:",
+    "options": [
+      "Qualsiasi tipo di contratto",
+      "Commesse dello stesso settore merceologico, o della stessa categoria di opere, o dello stesso settore di servizi",
+      "Solo commesse superiori a 1 milione",
+      "Solo se il fornitore è straniero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 10: La rotazione scatta per affidamenti 'analoghi' o nello stesso settore."
+  },
+  {
+    "id": 167,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Se la stazione appaltante suddivide gli affidamenti in fasce di valore, il principio di rotazione:",
+    "options": [
+      "Si applica tra fasce diverse",
+      "Si applica all'interno di ciascuna fascia (un affidamento in una fascia non preclude la partecipazione in un'altra)",
+      "È vietato",
+      "Non serve a nulla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 10: Le best practice indicano che la suddivisione in fasce permette di applicare la rotazione in modo più mirato."
+  },
+  {
+    "id": 168,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'Fascicolo Virtuale dell'Operatore Economico' (FVOE) è gestito da:",
+    "options": [
+      "Ministero dell'Economia",
+      "ANAC (Autorità Nazionale Anticorruzione)",
+      "AgID",
+      "Corte dei Conti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 5/11: L'ANAC gestisce la Banca Dati Nazionale dei Contratti Pubblici e il FVOE."
+  },
+  {
+    "id": 169,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La tracciabilità dei flussi finanziari (Legge 136/2010) impone l'uso di:",
+    "options": [
+      "Contanti per piccoli importi",
+      "Bonifici bancari o postali dedicati, riportando il CIG (e il CUP se presente)",
+      "Assegni circolari non tracciabili",
+      "Criptovalute"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11 (Implicitamente nel concetto di CIG): Il CIG va riportato nei pagamenti per garantire la tracciabilità."
+  },
+  {
+    "id": 170,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Negli affidamenti diretti, la richiesta di preventivi multipli trasforma la procedura in una gara formale?",
+    "options": [
+      "Sì, sempre",
+      "No, resta un'indagine esplorativa non vincolante",
+      "Sì, e scatta l'obbligo di stand-still",
+      "Dipende dal numero di preventivi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 12: Best practice ANAC. Chiedere preventivi serve a formare il convincimento, non è una procedura concorsuale."
+  },
+  {
+    "id": 171,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "È possibile richiedere la 'garanzia definitiva' negli affidamenti diretti?",
+    "options": [
+      "È sempre obbligatoria per il 10% dell'importo",
+      "È facoltativa, la stazione appaltante può esonerare l'operatore motivatamente (es. per importi ridotti)",
+      "È vietata",
+      "Solo se l'impresa è in perdita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 12: Il Codice permette di non richiedere la garanzia definitiva negli affidamenti diretti per semplificazione."
+  },
+  {
+    "id": 172,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il principio di 'accesso al mercato' (Art. 3) mira a:",
+    "options": [
+      "Favorire la partecipazione delle micro, piccole e medie imprese",
+      "Chiudere il mercato ai nuovi entranti",
+      "Favorire solo le grandi multinazionali",
+      "Eliminare la concorrenza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capitolo 13: Uno degli obiettivi del codice è favorire l'accesso delle PMI."
+  },
+  {
+    "id": 173,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La digitalizzazione del ciclo di vita dei contratti pubblici:",
+    "options": [
+      "È facoltativa fino al 2030",
+      "È un obbligo per tutte le fasi, dalla programmazione all'esecuzione",
+      "Riguarda solo la fase di gara",
+      "Si applica solo agli appalti sopra soglia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11/13: La digitalizzazione integrale è la regola del nuovo Codice."
+  },
+  {
+    "id": 174,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Se un operatore economico dichiara il falso nel DGUE:",
+    "options": [
+      "Viene assunto dalla P.A.",
+      "Incorre in esclusione e segnalazione all'ANAC",
+      "Viene perdonato se il prezzo è buono",
+      "Deve rifare la dichiarazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11: Le dichiarazioni mendaci sono causa di esclusione e sanzioni."
+  },
+  {
+    "id": 175,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Le piattaforme di approvvigionamento digitale devono essere:",
+    "options": [
+      "Create autonomamente da ogni comune",
+      "Certificate secondo le regole dell'AgID",
+      "Basate su social network",
+      "Gestite da aziende estere"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 11: Solo piattaforme certificate garantiscono sicurezza e interoperabilità."
+  },
+  {
+    "id": 176,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cos'è l'Accordo Quadro?",
+    "options": [
+      "Un quadro appeso in ufficio",
+      "Un accordo concluso tra una o più stazioni appaltanti e operatori per stabilire le condizioni dei contratti da stipulare in un dato periodo",
+      "Un contratto per una singola prestazione",
+      "Una variante in corso d'opera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 12: È uno strumento di aggregazione della domanda e semplificazione per acquisti ripetitivi."
+  },
+  {
+    "id": 177,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il principio di 'auto-organizzazione' amministrativa consente alla P.A. di:",
+    "options": [
+      "Non rispettare le leggi",
+      "Decidere se affidare all'esterno (outsourcing) o produrre in proprio (in house providing)",
+      "Assumere parenti",
+      "Chiudere gli uffici quando vuole"
+    ],
+    "correctIndex": 1,
+    "explanation": "Principio generale connesso alla scelta del contraente (Cap 1): l'autoproduzione è un'alternativa al mercato."
+  },
+  {
+    "id": 178,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il subappalto nel nuovo Codice:",
+    "options": [
+      "È vietato",
+      "È ammesso senza limiti percentuali generali (c.d. subappalto a cascata regolamentato)",
+      "È limitato al 30% per legge",
+      "È ammesso solo per le pulizie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tema trasversale importante: il nuovo codice ha rimosso i limiti rigidi preesistenti sul subappalto."
+  },
+  {
+    "id": 179,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La clausola sociale negli appalti serve a:",
+    "options": [
+      "Organizzare feste aziendali",
+      "Promuovere la stabilità occupazionale del personale impiegato nel contratto uscente",
+      "Garantire profitti alle imprese sociali",
+      "Assumere disoccupati a caso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 3 (OEPV e tutele): La clausola sociale è spesso richiesta nei bandi per tutelare i lavoratori nel cambio appalto."
+  },
+  {
+    "id": 180,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "L'anticipazione del prezzo all'appaltatore (di norma il 20%):",
+    "options": [
+      "È vietata",
+      "È un diritto dell'appaltatore per garantire liquidità all'avvio",
+      "Dipende dalla simpatia del RUP",
+      "Si applica solo se l'impresa è in crisi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dettaglio operativo importante per le imprese: l'anticipazione aiuta l'avvio del cantiere/servizio."
+  },
+  {
+    "id": 181,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La 'revisione prezzi' nel nuovo Codice:",
+    "options": [
+      "È obbligatoria nei documenti di gara per fronteggiare l'aumento dei costi",
+      "È vietata per non sforare il budget",
+      "È a discrezione dell'impresa",
+      "Si applica solo se l'inflazione supera il 50%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tema attuale (PNRR/Inflazione): le clausole di revisione prezzi sono obbligatorie per garantire l'equilibrio contrattuale."
+  },
+  {
+    "id": 182,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'conflitto di interessi' nell'affidamento dei contratti:",
+    "options": [
+      "È irrilevante",
+      "È causa di astensione del personale coinvolto e possibile esclusione dell'operatore",
+      "È un requisito di partecipazione",
+      "Favorisce la procedura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 5 (Requisiti generali): Il conflitto di interessi va prevenuto e gestito."
+  },
+  {
+    "id": 183,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cosa si intende per 'lotto funzionale'?",
+    "options": [
+      "Un premio della lotteria",
+      "Una parte dell'opera o servizio che ha una sua autonomia e utilità indipendente",
+      "Un insieme di documenti inutili",
+      "Un terreno edificabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "La suddivisione in lotti (funzionali o prestazionali) serve a favorire l'accesso delle PMI (Art. 58)."
+  },
+  {
+    "id": 184,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "In caso di parità di punteggio tra due offerte, la stazione appaltante:",
+    "options": [
+      "Annulla la gara",
+      "Preferisce l'offerta che garantisce la parità di genere o altri criteri premiali previsti dal bando",
+      "Tira una moneta",
+      "Divide l'appalto a metà"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 2/3: I criteri premiali (es. parità di genere) servono anche a risolvere situazioni di ex aequo."
+  },
+  {
+    "id": 185,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Chi è competente a dichiarare la 'pubblica utilità' di un'opera?",
+    "options": [
+      "L'impresa costruttrice",
+      "La stazione appaltante (di norma con l'approvazione del progetto di fattibilità)",
+      "I cittadini tramite referendum",
+      "L'ANAC"
+    ],
+    "correctIndex": 1,
+    "explanation": "Concetto legato ai lavori pubblici: l'approvazione del progetto equivale a dichiarazione di pubblica utilità."
+  },
+  {
+    "id": 186,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "L'affidamento 'in house' (a società controllata) richiede:",
+    "options": [
+      "Nessun requisito",
+      "Il controllo analogo, l'attività prevalente (>80%) e la motivazione del mancato ricorso al mercato",
+      "Che la società sia quotata in borsa",
+      "Che la società sia privata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Procedura alternativa alla gara (Cap 1): richiede requisiti stringenti (controllo analogo)."
+  },
+  {
+    "id": 187,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La 'conferenza di servizi' può essere utilizzata nelle procedure di appalto?",
+    "options": [
+      "No, riguarda solo l'edilizia privata",
+      "Sì, per acquisire rapidamente pareri e nulla osta sul progetto",
+      "Solo per appalti di pulizia",
+      "Solo se partecipano i sindacati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strumento di semplificazione (richiamato nel Libro 1 e applicabile agli appalti di lavori)."
+  },
+  {
+    "id": 188,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'Collegio Consultivo Tecnico' (CCT) è:",
+    "options": [
+      "Una scuola per geometri",
+      "Un organo obbligatorio per i lavori sopra soglia per prevenire e risolvere dispute in fase esecutiva",
+      "Un ufficio dell'Agenzia delle Entrate",
+      "Facoltativo sempre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Istituto deflativo del contenzioso potenziato dal nuovo Codice per evitare il blocco dei cantieri."
+  },
+  {
+    "id": 189,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Quale sanzione può applicare l'ANAC in caso di false dichiarazioni nel FVOE?",
+    "options": [
+      "L'arresto immediato",
+      "L'interdizione dalla partecipazione alle gare per un certo periodo e sanzioni pecuniarie",
+      "Nessuna, solo un richiamo verbale",
+      "La chiusura dell'azienda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 5/11: Il sistema sanzionatorio ANAC tutela l'affidabilità del mercato."
+  },
+  {
+    "id": 190,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'project financing' (finanza di progetto) prevede:",
+    "options": [
+      "Che paghi tutto lo Stato in anticipo",
+      "Il coinvolgimento di capitali privati nella realizzazione e gestione di opere pubbliche in cambio di flussi di cassa",
+      "Un prestito a fondo perduto",
+      "La vendita dei beni demaniali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Forma di Partenariato Pubblico Privato (PPP) rilevante per le grandi opere."
+  },
+  {
+    "id": 191,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La 'cauzione provvisoria' (garanzia a corredo dell'offerta):",
+    "options": [
+      "Serve a garantire la serietà dell'offerta e l'impegno a stipulare",
+      "Serve a pagare il RUP",
+      "Non esiste più",
+      "È l'acconto sul prezzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capitolo 2/12: Distinzione tra provvisoria (gara) e definitiva (esecuzione)."
+  },
+  {
+    "id": 192,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "In caso di raggruppamento temporaneo di imprese (RTI), l'offerta:",
+    "options": [
+      "È presentata da ogni impresa singolarmente",
+      "È presentata dalla mandataria (capogruppo) in nome e per conto di tutte le mandanti",
+      "Non può essere presentata",
+      "Deve essere firmata solo dalle mandanti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Meccanismo base della partecipazione in forma aggregata."
+  },
+  {
+    "id": 193,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "L'avvalimento è l'istituto che consente:",
+    "options": [
+      "Di farsi prestare i soldi dalla banca",
+      "A un operatore di soddisfare i requisiti di gara utilizzando le capacità di un altro soggetto (ausiliario)",
+      "Di subappaltare tutto al 100%",
+      "Di evitare la gara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 5: Avvalimento vs Subappalto. L'avvalimento serve per i requisiti di partecipazione."
+  },
+  {
+    "id": 194,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Cosa si intende per 'white list' presso le Prefetture?",
+    "options": [
+      "L'elenco dei fornitori di carta bianca",
+      "L'elenco dei fornitori, prestatori di servizi ed esecutori non soggetti a tentativo di infiltrazione mafiosa",
+      "La lista degli invitati alle feste",
+      "L'elenco delle opere incompiute"
+    ],
+    "correctIndex": 1,
+    "explanation": "Controllo antimafia: l'iscrizione è obbligatoria per settori a rischio."
+  },
+  {
+    "id": 195,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'principio di buona fede' nelle trattative precontrattuali:",
+    "options": [
+      "Non si applica alla P.A.",
+      "Obbliga le parti a comportarsi con lealtà e correttezza, pena responsabilità precontrattuale",
+      "È solo un consiglio morale",
+      "Vale solo per i privati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 1/13: Il nuovo codice enfatizza la buona fede e il legittimo affidamento."
+  },
+  {
+    "id": 196,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "I termini previsti dal Codice per le procedure di gara sono, di regola:",
+    "options": [
+      "Ordinatori e flessibili",
+      "Perentori, per garantire la certezza dei tempi (principio del risultato)",
+      "Puramente indicativi",
+      "Decisi volta per volta dal giudice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 2/13: La tempestività è parte integrante del principio del risultato."
+  },
+  {
+    "id": 197,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La 'cessione del contratto' di appalto:",
+    "options": [
+      "È libera",
+      "È nulla, salvo casi eccezionali di ristrutturazione societaria (fusione, scissione) previsti dalla legge",
+      "È sempre ammessa previo pagamento",
+      "Dipende dal valore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Principio di incedibilità del contratto pubblico (intuitu personae)."
+  },
+  {
+    "id": 198,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il Responsabile del Progetto (negli appalti di lavori complessi):",
+    "options": [
+      "Sostituisce il RUP",
+      "Può affiancare il RUP per gli aspetti strettamente tecnici e progettuali",
+      "È il sindaco",
+      "È il direttore dei lavori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nuova figura (o meglio specificazione) per supportare il RUP in progetti complessi."
+  },
+  {
+    "id": 199,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "La 'clausola di revisione prezzi' scatta:",
+    "options": [
+      "Automaticamente ogni mese",
+      "Al verificarsi di variazioni del costo superiori a una certa soglia (es. 5%) stabilita nel contratto",
+      "Mai",
+      "Solo se lo chiede l'impresa piangendo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Meccanismo di riequilibrio contrattuale (alea contrattuale)."
+  },
+  {
+    "id": 200,
+    "category": "Disciplina degli appalti pubblici e contratti",
+    "question": "Il 'Programma triennale dei lavori pubblici' serve a:",
+    "options": [
+      "Fare pubblicità elettorale",
+      "Pianificare gli interventi, definire le priorità e garantire la copertura finanziaria prima di avviare le gare",
+      "Elencare i lavori già finiti",
+      "Decidere le ferie dei dipendenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capitolo 7 (Programmazione): Atto fondamentale di pianificazione senza il quale non si possono avviare opere."
   }
 ]
